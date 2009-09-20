@@ -1,0 +1,46 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libz_intermediates/compress.o:  \
+ external/zlib/compress.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/zlib/zlib.h external/zlib/zconf.h \
+  bionic/libc/include/sys/types.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/sys/cdefs_elf.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/unistd.h \
+  bionic/libc/include/sys/select.h bionic/libc/include/sys/time.h \
+  bionic/libc/kernel/common/linux/time.h \
+  bionic/libc/include/sys/sysconf.h \
+  bionic/libc/kernel/common/linux/capability.h \
+  bionic/libc/include/pathconf.h
+ external/zlib/compress.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/zlib/zlib.h external/zlib/zconf.h :
+  bionic/libc/include/sys/types.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/sys/cdefs_elf.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/unistd.h :
+  bionic/libc/include/sys/select.h bionic/libc/include/sys/time.h :
+  bionic/libc/kernel/common/linux/time.h :
+  bionic/libc/include/sys/sysconf.h :
+  bionic/libc/kernel/common/linux/capability.h :
+  bionic/libc/include/pathconf.h :

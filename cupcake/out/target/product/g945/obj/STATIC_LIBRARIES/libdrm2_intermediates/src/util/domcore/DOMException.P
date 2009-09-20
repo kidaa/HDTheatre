@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libdrm2_intermediates/src/util/domcore/DOMException.o:  \
+ frameworks/base/media/libdrm/mobile2/src/util/domcore/DOMException.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ frameworks/base/media/libdrm/mobile2/src/util/domcore/DOMException.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

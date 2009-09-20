@@ -1,0 +1,10 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/gdbserver_intermediates/reg-i386-linux.o:  \
+ external/gdb-6.8/gdb/gdbserver/reg-i386-linux.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/gdb-6.8/gdb/gdbserver/../regformats/regdef.h \
+  external/gdb-6.8/gdb/gdbserver/regcache.h
+ external/gdb-6.8/gdb/gdbserver/reg-i386-linux.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/gdb-6.8/gdb/gdbserver/../regformats/regdef.h :
+  external/gdb-6.8/gdb/gdbserver/regcache.h :

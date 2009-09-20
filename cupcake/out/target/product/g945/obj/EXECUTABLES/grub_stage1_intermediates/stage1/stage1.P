@@ -1,0 +1,4 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/grub_stage1_intermediates/stage1/stage1.o:  \
+ external/grub/stage1/stage1.S external/grub/stage1/stage1.h
+ external/grub/stage1/stage1.S external/grub/stage1/stage1.h :

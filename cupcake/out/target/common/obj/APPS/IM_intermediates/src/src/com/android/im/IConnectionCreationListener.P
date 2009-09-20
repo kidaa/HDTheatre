@@ -1,0 +1,4 @@
+out/target/common/obj/APPS/IM_intermediates/src/src/com/android/im/IConnectionCreationListener.java: \
+  packages/apps/IM/src/com/android/im/IConnectionCreationListener.aidl \
+  packages/apps/IM/src/com/android/im/IImConnection.aidl 
+

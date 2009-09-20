@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libc_intermediates/arch-x86/bionic/__get_tls.o:  \
+ bionic/libc/arch-x86/bionic/__get_tls.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ bionic/libc/arch-x86/bionic/__get_tls.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

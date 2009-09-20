@@ -1,0 +1,142 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/values/attrs.xml:29 -->
+  <public type="attr" name="text" id="0x7f010000" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/values/attrs.xml:30 -->
+  <public type="attr" name="textColor" id="0x7f010001" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/values/attrs.xml:31 -->
+  <public type="attr" name="textSize" id="0x7f010002" />
+
+  <!-- Declared at res/drawable/album.png:0 -->
+  <public type="drawable" name="album" id="0x7f020000" />
+  <!-- Declared at res/drawable/album_small.png:0 -->
+  <public type="drawable" name="album_small" id="0x7f020001" />
+  <!-- Declared at res/drawable/assistant.png:0 -->
+  <public type="drawable" name="assistant" id="0x7f020002" />
+  <!-- Declared at res/drawable/assistant_small.png:0 -->
+  <public type="drawable" name="assistant_small" id="0x7f020003" />
+  <!-- Declared at res/drawable/audiosettings.png:0 -->
+  <public type="drawable" name="audiosettings" id="0x7f020004" />
+  <!-- Declared at res/drawable/background_plugin.png:0 -->
+  <public type="drawable" name="background_plugin" id="0x7f020005" />
+  <!-- Declared at res/drawable/black.png:0 -->
+  <public type="drawable" name="black" id="0x7f020006" />
+  <!-- Declared at res/drawable/black_ori.png:0 -->
+  <public type="drawable" name="black_ori" id="0x7f020007" />
+  <!-- Declared at res/drawable/browser.png:0 -->
+  <public type="drawable" name="browser" id="0x7f020008" />
+  <!-- Declared at res/drawable/browser_small.png:0 -->
+  <public type="drawable" name="browser_small" id="0x7f020009" />
+  <!-- Declared at res/drawable/channelinputsettings.png:0 -->
+  <public type="drawable" name="channelinputsettings" id="0x7f02000a" />
+  <!-- Declared at res/drawable/chassissettings.png:0 -->
+  <public type="drawable" name="chassissettings" id="0x7f02000b" />
+  <!-- Declared at res/drawable/chat.png:0 -->
+  <public type="drawable" name="chat" id="0x7f02000c" />
+  <!-- Declared at res/drawable/chat_small.png:0 -->
+  <public type="drawable" name="chat_small" id="0x7f02000d" />
+  <!-- Declared at res/drawable/communicationsettings.png:0 -->
+  <public type="drawable" name="communicationsettings" id="0x7f02000e" />
+  <!-- Declared at res/drawable/dvd.png:0 -->
+  <public type="drawable" name="dvd" id="0x7f02000f" />
+  <!-- Declared at res/drawable/dvd_small.png:0 -->
+  <public type="drawable" name="dvd_small" id="0x7f020010" />
+  <!-- Declared at res/drawable/earth_960_540.png:0 -->
+  <public type="drawable" name="earth_960_540" id="0x7f020011" />
+  <!-- Declared at res/drawable/ecosettings.png:0 -->
+  <public type="drawable" name="ecosettings" id="0x7f020012" />
+  <!-- Declared at res/drawable/email.png:0 -->
+  <public type="drawable" name="email" id="0x7f020013" />
+  <!-- Declared at res/drawable/email_small.png:0 -->
+  <public type="drawable" name="email_small" id="0x7f020014" />
+  <!-- Declared at res/drawable/icon.png:0 -->
+  <public type="drawable" name="icon" id="0x7f020015" />
+  <!-- Declared at res/drawable/inputsettings.png:0 -->
+  <public type="drawable" name="inputsettings" id="0x7f020016" />
+  <!-- Declared at res/drawable/inputshi.png:0 -->
+  <public type="drawable" name="inputshi" id="0x7f020017" />
+  <!-- Declared at res/drawable/inputsnr.png:0 -->
+  <public type="drawable" name="inputsnr" id="0x7f020018" />
+  <!-- Declared at res/drawable/musichi.png:0 -->
+  <public type="drawable" name="musichi" id="0x7f020019" />
+  <!-- Declared at res/drawable/musicnr.png:0 -->
+  <public type="drawable" name="musicnr" id="0x7f02001a" />
+  <!-- Declared at res/drawable/nwhi.png:0 -->
+  <public type="drawable" name="nwhi" id="0x7f02001b" />
+  <!-- Declared at res/drawable/nwnr.png:0 -->
+  <public type="drawable" name="nwnr" id="0x7f02001c" />
+  <!-- Declared at res/drawable/option.png:0 -->
+  <public type="drawable" name="option" id="0x7f02001d" />
+  <!-- Declared at res/drawable/option_small.png:0 -->
+  <public type="drawable" name="option_small" id="0x7f02001e" />
+  <!-- Declared at res/drawable/photohi.png:0 -->
+  <public type="drawable" name="photohi" id="0x7f02001f" />
+  <!-- Declared at res/drawable/photonr.png:0 -->
+  <public type="drawable" name="photonr" id="0x7f020020" />
+  <!-- Declared at res/drawable/picturesettings.png:0 -->
+  <public type="drawable" name="picturesettings" id="0x7f020021" />
+  <!-- Declared at res/drawable/preferencesettings.png:0 -->
+  <public type="drawable" name="preferencesettings" id="0x7f020022" />
+  <!-- Declared at res/drawable/screenmodesettings.png:0 -->
+  <public type="drawable" name="screenmodesettings" id="0x7f020023" />
+  <!-- Declared at res/drawable/scroll_left_78x24.png:0 -->
+  <public type="drawable" name="scroll_left_78x24" id="0x7f020024" />
+  <!-- Declared at res/drawable/settingshi.png:0 -->
+  <public type="drawable" name="settingshi" id="0x7f020025" />
+  <!-- Declared at res/drawable/settingsnr.png:0 -->
+  <public type="drawable" name="settingsnr" id="0x7f020026" />
+  <!-- Declared at res/drawable/soundsettings.png:0 -->
+  <public type="drawable" name="soundsettings" id="0x7f020027" />
+  <!-- Declared at res/drawable/timer.png:0 -->
+  <public type="drawable" name="timer" id="0x7f020028" />
+  <!-- Declared at res/drawable/tv.png:0 -->
+  <public type="drawable" name="tv" id="0x7f020029" />
+  <!-- Declared at res/drawable/tv1.png:0 -->
+  <public type="drawable" name="tv1" id="0x7f02002a" />
+  <!-- Declared at res/drawable/tv1_small.png:0 -->
+  <public type="drawable" name="tv1_small" id="0x7f02002b" />
+  <!-- Declared at res/drawable/tvhi.png:0 -->
+  <public type="drawable" name="tvhi" id="0x7f02002c" />
+  <!-- Declared at res/drawable/videohi.png:0 -->
+  <public type="drawable" name="videohi" id="0x7f02002d" />
+  <!-- Declared at res/drawable/videonr.png:0 -->
+  <public type="drawable" name="videonr" id="0x7f02002e" />
+  <!-- Declared at res/drawable/xmb_background.png:0 -->
+  <public type="drawable" name="xmb_background" id="0x7f02002f" />
+  <!-- Declared at res/drawable/xmb_background_2.png:0 -->
+  <public type="drawable" name="xmb_background_2" id="0x7f020030" />
+  <!-- Declared at res/drawable/xmb_focus_4x3.png:0 -->
+  <public type="drawable" name="xmb_focus_4x3" id="0x7f020031" />
+
+  <!-- Declared at res/layout/main.xml:0 -->
+  <public type="layout" name="main" id="0x7f030000" />
+  <!-- Declared at res/layout/param.xml:0 -->
+  <public type="layout" name="param" id="0x7f030001" />
+
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/values/strings.xml:3 -->
+  <public type="string" name="hello" id="0x7f040000" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/values/strings.xml:4 -->
+  <public type="string" name="app_name" id="0x7f040001" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/values/strings.xml:5 -->
+  <public type="string" name="gallery_2_text" id="0x7f040002" />
+
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/layout/main.xml:1 -->
+  <public type="id" name="gallery_layout" id="0x7f050000" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/layout/main.xml:7 -->
+  <public type="id" name="image_g" id="0x7f050001" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/layout/main.xml:14 -->
+  <public type="id" name="label_g" id="0x7f050002" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/layout/param.xml:1 -->
+  <public type="id" name="view_layout" id="0x7f050003" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/layout/param.xml:7 -->
+  <public type="id" name="image" id="0x7f050004" />
+  <!-- Declared at /media/data/source/cupcake/development/samples/xmb/smartXMB_SDK/res/layout/param.xml:14 -->
+  <public type="id" name="label" id="0x7f050005" />
+
+</resources>

@@ -1,0 +1,8 @@
+ \
+ out/host/linux-x86/obj/STATIC_LIBRARIES/libutils_intermediates/TimerProbe.o:  \
+ frameworks/base/libs/utils/TimerProbe.cpp \
+  system/core/include/arch/linux-x86/AndroidConfig.h \
+  frameworks/base/include/utils/TimerProbe.h
+ frameworks/base/libs/utils/TimerProbe.cpp :
+  system/core/include/arch/linux-x86/AndroidConfig.h :
+  frameworks/base/include/utils/TimerProbe.h :

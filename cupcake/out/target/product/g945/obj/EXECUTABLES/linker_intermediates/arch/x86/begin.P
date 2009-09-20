@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/linker_intermediates/arch/x86/begin.o:  \
+ bionic/linker/arch/x86/begin.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ bionic/linker/arch/x86/begin.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

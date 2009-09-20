@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/telephony/java/com/android/internal/telephony/gsm/ISimPhoneBook.java: \
+  frameworks/base/telephony/java/com/android/internal/telephony/gsm/ISimPhoneBook.aidl \
+  frameworks/base/telephony/java/com/android/internal/telephony/gsm/AdnRecord.aidl \
+

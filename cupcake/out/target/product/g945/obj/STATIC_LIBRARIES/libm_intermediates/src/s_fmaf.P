@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libm_intermediates/src/s_fmaf.o:  \
+ bionic/libm/src/s_fmaf.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h
+ bionic/libm/src/s_fmaf.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :

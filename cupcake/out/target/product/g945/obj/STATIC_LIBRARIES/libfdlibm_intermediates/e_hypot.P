@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libfdlibm_intermediates/e_hypot.o:  \
+ external/fdlibm/e_hypot.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/fdlibm/fdlibm.h
+ external/fdlibm/e_hypot.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/fdlibm/fdlibm.h :

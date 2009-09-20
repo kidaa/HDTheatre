@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libc_common_intermediates/arch-x86/syscalls/__rt_sigprocmask.o:  \
+ bionic/libc/arch-x86/syscalls/__rt_sigprocmask.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  bionic/libc/include/sys/linux-syscalls.h
+ bionic/libc/arch-x86/syscalls/__rt_sigprocmask.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  bionic/libc/include/sys/linux-syscalls.h :

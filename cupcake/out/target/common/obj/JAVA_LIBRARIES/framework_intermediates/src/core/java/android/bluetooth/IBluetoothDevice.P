@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/bluetooth/IBluetoothDevice.java: \
+  frameworks/base/core/java/android/bluetooth/IBluetoothDevice.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothDeviceCallback.aidl 
+

@@ -1,0 +1,5 @@
+out/target/product/g945/obj/EXECUTABLES/tcpdump_intermediates/version.o:  \
+ external/tcpdump/version.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/tcpdump/version.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

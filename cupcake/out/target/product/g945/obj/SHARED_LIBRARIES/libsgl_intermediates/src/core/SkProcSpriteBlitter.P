@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libsgl_intermediates/src/core/SkProcSpriteBlitter.o:  \
+ external/skia/src/core/SkProcSpriteBlitter.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/skia/src/core/SkProcSpriteBlitter.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/sparc/sparc.o:  \
+ external/mesa/src/mesa/sparc/sparc.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/mesa/src/mesa/sparc/sparc.h
+ external/mesa/src/mesa/sparc/sparc.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/mesa/src/mesa/sparc/sparc.h :

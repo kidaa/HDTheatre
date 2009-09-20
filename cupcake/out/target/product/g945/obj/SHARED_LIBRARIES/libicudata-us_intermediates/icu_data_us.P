@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libicudata-us_intermediates/icu_data_us.o:  \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libicudata-us_intermediates/icu_data_us.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ out/target/product/g945/obj/SHARED_LIBRARIES/libicudata-us_intermediates/icu_data_us.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

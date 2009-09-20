@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libfdlibm_intermediates/s_asinh.o:  \
+ external/fdlibm/s_asinh.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/fdlibm/fdlibm.h
+ external/fdlibm/s_asinh.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/fdlibm/fdlibm.h :

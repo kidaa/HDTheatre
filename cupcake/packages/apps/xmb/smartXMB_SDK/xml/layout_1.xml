@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+ <XMB version="1">
+     <layout marginLeft="30" marginTop="50" background="/data/earth_960_540.png" space="1">
+         <category name="Settings" index="0" hi_icon="/data/musichi.png" nr_icon="/data/musicnr.png" /> 
+         <category name="Photo" index="1" hi_icon="/data/photohi.png" nr_icon="/data/photonr.png" /> 
+         <category name="Wireless" index="2" hi_icon="/data/tvhi.png" nr_icon="/data/tv.png" /> 
+        </layout>
+  </XMB>
+

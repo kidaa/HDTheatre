@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libpcap_intermediates/version.o:  \
+ external/libpcap/version.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/libpcap/version.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

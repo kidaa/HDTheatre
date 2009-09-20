@@ -1,0 +1,6 @@
+ \
+ out/host/linux-x86/obj/STATIC_LIBRARIES/libutils_intermediates/LogSocket.o:  \
+ frameworks/base/libs/utils/LogSocket.cpp \
+  system/core/include/arch/linux-x86/AndroidConfig.h
+ frameworks/base/libs/utils/LogSocket.cpp :
+  system/core/include/arch/linux-x86/AndroidConfig.h :

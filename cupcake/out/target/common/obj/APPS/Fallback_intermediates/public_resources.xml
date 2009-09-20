@@ -1,0 +1,61 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/layout/fallback.xml:0 -->
+  <public type="layout" name="fallback" id="0x7f020000" />
+
+  <!-- Declared at development/apps/Fallback/res/values/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-ja/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-nb/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-de/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-nl/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-pl/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-ko/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-fr/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-cs/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-es/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-it/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-ru/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-zh-rCN/strings.xml:18 -->
+  <!-- Declared at development/apps/Fallback/res/values-zh-rTW/strings.xml:18 -->
+  <public type="string" name="appTitle" id="0x7f030000" />
+  <!-- Declared at development/apps/Fallback/res/values/strings.xml:22 -->
+  <!-- Declared at development/apps/Fallback/res/values-ja/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-nb/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-de/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-nl/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-pl/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-ko/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-fr/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-cs/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-es/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-it/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-ru/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-zh-rCN/strings.xml:19 -->
+  <!-- Declared at development/apps/Fallback/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="title" id="0x7f030001" />
+  <!-- Declared at development/apps/Fallback/res/values/strings.xml:24 -->
+  <!-- Declared at development/apps/Fallback/res/values-ja/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-nb/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-de/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-nl/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-pl/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-ko/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-fr/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-cs/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-es/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-it/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-ru/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-zh-rCN/strings.xml:20 -->
+  <!-- Declared at development/apps/Fallback/res/values-zh-rTW/strings.xml:20 -->
+  <public type="string" name="error" id="0x7f030002" />
+
+  <!-- Declared at development/apps/Fallback/res/layout/fallback.xml:22 -->
+  <public type="id" name="text" id="0x7f040000" />
+
+</resources>

@@ -1,0 +1,20 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libjni_pinyinime_intermediates/share/utf16char.o:  \
+ packages/inputmethods/PinyinIME/jni/share/utf16char.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  bionic/libc/include/stdlib.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/sys/cdefs_elf.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/string.h bionic/libc/include/malloc.h \
+  bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+  bionic/libc/include/memory.h \
+  packages/inputmethods/PinyinIME/jni/share/../include/utf16char.h
+ packages/inputmethods/PinyinIME/jni/share/utf16char.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  bionic/libc/include/stdlib.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/sys/cdefs_elf.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/string.h bionic/libc/include/malloc.h :
+  bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+  bionic/libc/include/memory.h :
+  packages/inputmethods/PinyinIME/jni/share/../include/utf16char.h :

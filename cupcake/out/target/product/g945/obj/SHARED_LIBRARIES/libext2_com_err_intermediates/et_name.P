@@ -1,0 +1,24 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libext2_com_err_intermediates/et_name.o:  \
+ external/e2fsprogs/lib/et/et_name.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/e2fsprogs/lib/et/com_err.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  external/e2fsprogs/lib/et/error_table.h \
+  external/e2fsprogs/lib/et/internal.h bionic/libc/include/errno.h \
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+  bionic/libc/kernel/common/linux/errno.h \
+  bionic/libc/kernel/arch-x86/asm/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno-base.h
+ external/e2fsprogs/lib/et/et_name.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/e2fsprogs/lib/et/com_err.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  external/e2fsprogs/lib/et/error_table.h :
+  external/e2fsprogs/lib/et/internal.h bionic/libc/include/errno.h :
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+  bionic/libc/kernel/common/linux/errno.h :
+  bionic/libc/kernel/arch-x86/asm/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno-base.h :

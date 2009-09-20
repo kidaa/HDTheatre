@@ -1,0 +1,120 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/app_icon.png:0 -->
+  <public type="drawable" name="app_icon" id="0x7f020000" />
+  <!-- Declared at res/drawable/appwidget_bg.9.png:0 -->
+  <!-- Declared at res/drawable-land/appwidget_bg.9.png:0 -->
+  <public type="drawable" name="appwidget_bg" id="0x7f020001" />
+  <!-- Declared at res/drawable/white_list_rule_cal.9.png:0 -->
+  <public type="drawable" name="white_list_rule_cal" id="0x7f020002" />
+
+  <!-- Declared at res/layout/agenda_appwidget.xml:0 -->
+  <!-- Declared at res/layout-land/agenda_appwidget.xml:0 -->
+  <public type="layout" name="agenda_appwidget" id="0x7f030000" />
+
+  <!-- Declared at res/xml/appwidget_info.xml:0 -->
+  <public type="xml" name="appwidget_info" id="0x7f040000" />
+
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:18 -->
+  <public type="color" name="appwidget_date" id="0x7f050000" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:19 -->
+  <public type="color" name="appwidget_date_shadow" id="0x7f050001" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:21 -->
+  <public type="color" name="appwidget_when" id="0x7f050002" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:22 -->
+  <public type="color" name="appwidget_title" id="0x7f050003" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:23 -->
+  <public type="color" name="appwidget_where" id="0x7f050004" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:24 -->
+  <public type="color" name="appwidget_conflict" id="0x7f050005" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/colors.xml:26 -->
+  <public type="color" name="appwidget_no_events" id="0x7f050006" />
+
+  <!-- Declared at packages/providers/CalendarProvider/res/values/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ja/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nb/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-de/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nl/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-pl/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ko/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-fr/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-cs/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-es/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-it/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ru/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rCN/strings.xml:18 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rTW/strings.xml:18 -->
+  <public type="string" name="gadget_title" id="0x7f060000" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/strings.xml:23 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ja/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nb/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-de/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nl/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-pl/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ko/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-fr/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-cs/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-es/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-it/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ru/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rCN/strings.xml:19 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="no_title_label" id="0x7f060001" />
+  <!-- Declared at packages/providers/CalendarProvider/res/values/strings.xml:34 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ja/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nb/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-de/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nl/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-pl/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ko/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-fr/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-cs/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-es/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-it/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ru/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rCN/strings.xml:24 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rTW/strings.xml:24 -->
+  <public type="string" name="gadget_no_events" id="0x7f060002" />
+
+  <!-- Declared at packages/providers/CalendarProvider/res/values/strings.xml:26 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ja/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nb/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-de/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-nl/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-pl/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ko/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-fr/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-cs/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-es/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-it/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-ru/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rCN/strings.xml:20 -->
+  <!-- Declared at packages/providers/CalendarProvider/res/values-zh-rTW/strings.xml:20 -->
+  <public type="plurals" name="gadget_more_events" id="0x7f070000" />
+
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:17 -->
+  <public type="id" name="agenda_appwidget" id="0x7f080000" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:24 -->
+  <public type="id" name="no_events" id="0x7f080001" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:36 -->
+  <public type="id" name="day_of_month" id="0x7f080002" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:53 -->
+  <public type="id" name="day_of_week" id="0x7f080003" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:73 -->
+  <public type="id" name="divider" id="0x7f080004" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:85 -->
+  <public type="id" name="when" id="0x7f080005" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:100 -->
+  <public type="id" name="where" id="0x7f080006" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:114 -->
+  <public type="id" name="conflict" id="0x7f080007" />
+  <!-- Declared at packages/providers/CalendarProvider/res/layout/agenda_appwidget.xml:129 -->
+  <public type="id" name="title" id="0x7f080008" />
+
+</resources>

@@ -1,0 +1,3 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/im/java/android/im/IImPlugin.java: \
+  frameworks/base/im/java/android/im/IImPlugin.aidl 
+

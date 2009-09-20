@@ -1,0 +1,540 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libprotocolenginenode_intermediates/src/pvmf_protocol_engine_node_download_common.o:  \
+ external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node_download_common.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node.h \
+  external/opencore/pvmi/pvmf/include/pvmf_node_interface.h \
+  out/target/product/g945/obj/include/libpv/oscl_base.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig.h \
+  bionic/libc/include/dirent.h bionic/libc/include/stdint.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/dlfcn.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_limits_typedefs.h \
+  bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+  bionic/libc/kernel/common/linux/limits.h \
+  bionic/libc/arch-x86/include/machine/internal_types.h \
+  bionic/libc/arch-x86/include/machine/limits.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_unix_nj.h \
+  bionic/libc/include/stdlib.h bionic/libc/include/string.h \
+  bionic/libc/include/malloc.h bionic/libc/include/alloca.h \
+  bionic/libc/include/strings.h bionic/libc/include/memory.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  bionic/libc/include/sys/types.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdio.h \
+  bionic/libc/include/unistd.h bionic/libc/include/sys/select.h \
+  bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h \
+  bionic/libc/include/sys/sysconf.h \
+  bionic/libc/kernel/common/linux/capability.h \
+  bionic/libc/include/pathconf.h bionic/libc/include/pthread.h \
+  bionic/libc/include/time.h bionic/libc/kernel/arch-x86/asm/siginfo.h \
+  bionic/libc/kernel/common/asm-generic/siginfo.h \
+  bionic/libc/include/signal.h bionic/libc/kernel/arch-x86/asm/signal.h \
+  bionic/libc/kernel/common/asm-generic/signal.h \
+  bionic/libc/include/sched.h bionic/libc/include/ctype.h \
+  bionic/libstdc++/include/new bionic/libm/include/math.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_ix86.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_check.h \
+  out/target/product/g945/obj/include/libpv/oscl_base_macros.h \
+  out/target/product/g945/obj/include/libpv/oscl_types.h \
+  out/target/product/g945/obj/include/libpv/oscl_lock_base.h \
+  out/target/product/g945/obj/include/libpv/oscl_vector.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem_basic_functions.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem_basic_functions.inl \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_memory.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_ansi_memory.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_memory_check.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_compiler_warnings.h \
+  out/target/product/g945/obj/include/libpv/oscl_assert.h \
+  out/target/product/g945/obj/include/libpv/oscl_assert.inl \
+  frameworks/base/include/utils/Log.h system/core/include/cutils/log.h \
+  system/core/include/cutils/uio.h bionic/libc/include/sys/uio.h \
+  bionic/libc/kernel/common/linux/uio.h system/core/include/cutils/logd.h \
+  out/target/product/g945/obj/include/libpv/oscl_opaque_type.h \
+  out/target/product/g945/obj/include/libpv/oscl_defalloc.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem_inst.h \
+  external/opencore/pvmi/pvmf/include/pvmf_event_handling.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem_auto_ptr.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem.h \
+  out/target/product/g945/obj/include/libpv/oscl_refcounter.h \
+  out/target/product/g945/obj/include/libpv/oscl_error.h \
+  out/target/product/g945/obj/include/libpv/oscl_heapbase.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_error.h \
+  bionic/libc/include/setjmp.h \
+  bionic/libc/arch-x86/include/machine/setjmp.h \
+  bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h \
+  bionic/libc/kernel/arch-x86/asm/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno-base.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_error_check.h \
+  out/target/product/g945/obj/include/libpv/oscl_heapbase.inl \
+  out/target/product/g945/obj/include/libpv/oscl_execpanic.h \
+  out/target/product/g945/obj/include/libpv/oscl_error_codes.h \
+  out/target/product/g945/obj/include/libpv/oscl_singleton.h \
+  out/target/product/g945/obj/include/libpv/oscl_tls.h \
+  out/target/product/g945/obj/include/libpv/oscl_exception.h \
+  out/target/product/g945/obj/include/libpv/oscl_error_imp.h \
+  out/target/product/g945/obj/include/libpv/oscl_error_imp_jumps.h \
+  out/target/product/g945/obj/include/libpv/oscl_error_trapcleanup.h \
+  out/target/product/g945/obj/include/libpv/oscl_error_panic.h \
+  out/target/product/g945/obj/include/libpv/oscl_namestring.h \
+  out/target/product/g945/obj/include/libpv/oscl_base_alloc.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem.inl \
+  external/opencore/pvmi/pvmf/include/pvmf_return_codes.h \
+  external/opencore/pvmi/pvmf/include/pv_interface.h \
+  external/opencore/pvmi/pvmf/include/pv_uuid.h \
+  out/target/product/g945/obj/include/libpv/oscl_uuid.h \
+  out/target/product/g945/obj/include/libpv/oscl_string_utils.h \
+  out/target/product/g945/obj/include/libpv/oscl_stdstring.h \
+  external/opencore/pvmi/pvmf/include/pvmf_port_interface.h \
+  out/target/product/g945/obj/include/libpv/oscl_shared_ptr.h \
+  external/opencore/pvmi/pvmf/include/pvmf_format_type.h \
+  out/target/product/g945/obj/include/libpv/oscl_string.h \
+  external/opencore/pvmi/pvmf/include/pvmf_media_msg.h \
+  external/opencore/pvmi/pvmf/include/pvmf_timestamp.h \
+  out/target/product/g945/obj/include/libpv/oscl_refcounter_memfrag.h \
+  external/opencore/pvmi/pvmf/include/pvmf_node_utils.h \
+  out/target/product/g945/obj/include/libpv/oscl_string_containers.h \
+  out/target/product/g945/obj/include/libpv/oscl_string_rep.h \
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_ao.h \
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_types.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_proc.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_proc_unix_nj.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_proc_check.h \
+  bionic/libc/include/sys/prctl.h bionic/libc/kernel/common/linux/prctl.h \
+  out/target/product/g945/obj/include/libpv/oscl_aostatus.h \
+  out/target/product/g945/obj/include/libpv/oscl_aostatus.inl \
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_aobase.h \
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_threadcontext.h \
+  out/target/product/g945/obj/include/libpv/oscl_double_list.h \
+  out/target/product/g945/obj/include/libpv/oscl_double_list.inl \
+  out/target/product/g945/obj/include/libpv/oscl_mutex.h \
+  out/target/product/g945/obj/include/libpv/oscl_thread.h \
+  out/target/product/g945/obj/include/libpv/oscl_procstatus.h \
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_readyq.h \
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_tuneables.h \
+  out/target/product/g945/obj/include/libpv/oscl_priqueue.h \
+  out/target/product/g945/obj/include/libpv/oscl_semaphore.h \
+  external/opencore/pvmi/pvmf/include/pvmf_pool_buffer_allocator.h \
+  external/opencore/pvmi/pvmf/include/pvmi_config_and_capability.h \
+  external/opencore/pvmi/pvmf/include/pvmi_config_and_capability_observer.h \
+  external/opencore/pvmi/pvmf/include/pvmi_kvp.h \
+  external/opencore/pvmi/pvmf/include/pvmf_mempool.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem_mempool.h \
+  out/target/product/g945/obj/include/libpv/pvlogger.h \
+  out/target/product/g945/obj/include/libpv/oscl_shared_ptr.h \
+  external/opencore/pvmi/pvmf/include/pvmf_media_cmd.h \
+  external/opencore/pvmi/pvmf/include/pvmf_media_data.h \
+  external/opencore/pvmi/pvmf/include/pvmi_data_stream_interface.h \
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_port.h \
+  external/opencore/pvmi/pvmf/include/pvmf_port_base_impl.h \
+  out/target/product/g945/obj/include/libpv/oscl_queue.h \
+  external/opencore/pvmi/pvmf/include/pvmi_config_and_capability_utils.h \
+  external/opencore//nodes/pvprotocolenginenode/include/pvmf_protocol_engine_defs.h \
+  external/opencore/nodes/common/include/pvmf_data_source_init_extension.h \
+  out/target/product/g945/obj/include/libpv/oscl_clock.h \
+  out/target/product/g945/obj/include/libpv/oscl_tickcount.h \
+  out/target/product/g945/obj/include/libpv/oscl_tickcount.inl \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_time.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_time_check.h \
+  out/target/product/g945/obj/include/libpv/oscl_int64_utils.h \
+  external/opencore/pvmi/pvmf/include/pvmi_datastreamuser_interface.h \
+  out/target/product/g945/obj/include/libpv/pvmf_cpmplugin_access_interface_factory.h \
+  out/target/product/g945/obj/include/libpv/pv_interface.h \
+  external/opencore//nodes/pvprotocolenginenode/include/pvmf_protocol_engine_node_extension.h \
+  external/opencore//nodes/pvprotocolenginenode/include/pvmf_protocol_engine_node_events.h \
+  external/opencore/pvmi/pvmf/include/pvmf_basic_errorinfomessage.h \
+  external/opencore/pvmi/pvmf/include/pvmf_errorinfomessage_extension.h \
+  external/opencore/nodes/common/include/pvmf_download_progress_interface.h \
+  external/opencore/nodes/common/include/pvmf_track_selection_extension.h \
+  external/opencore/nodes/common/include/pvmf_media_presentation_info.h \
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node_common.h \
+  external/opencore/pvmi/pvmf/include/pvmf_simple_media_buffer.h \
+  external/opencore/pvmi/pvmf/include/pvmf_media_data_impl.h \
+  external/opencore/pvmi/pvmf/include/pvmf_meta_data_types.h \
+  external/opencore/pvmi/pvmf/include/pvmf_media_msg_format_ids.h \
+  external/opencore/protocols/sdp/parser/include/sdp_parser.h \
+  out/target/product/g945/obj/include/libpv/oscl_types.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem.h \
+  external/opencore/protocols/sdp/parser/include/sdp_mediaparser_registry.h \
+  out/target/product/g945/obj/include/libpv/oscl_map.h \
+  out/target/product/g945/obj/include/libpv/oscl_tree.h \
+  out/target/product/g945/obj/include/libpv/oscl_base_alloc.h \
+  out/target/product/g945/obj/include/libpv/oscl_str_ptr_len.h \
+  out/target/product/g945/obj/include/libpv/oscl_error.h \
+  external/opencore/protocols/sdp/parser/include/sdp_mediaparser_factory.h \
+  external/opencore/protocols/sdp/parser/include/session_info_parser.h \
+  external/opencore/protocols/sdp/common/include/sdp_error.h \
+  external/opencore/protocols/sdp/common/include/sdp_memory.h \
+  external/opencore/protocols/sdp/common/include/session_info.h \
+  out/target/product/g945/obj/include/libpv/oscl_time.h \
+  out/target/product/g945/obj/include/libpv/oscl_time.inl \
+  external/opencore/baselibs/gen_data_structures/src/rtsp_time_formats.h \
+  external/opencore/baselibs/gen_data_structures/src/rtsp_range_utils.h \
+  external/opencore/baselibs/gen_data_structures/src/rtsp_time_formats.h \
+  external/opencore/protocols/sdp/common/include/sdp_error.h \
+  external/opencore/protocols/sdp/common/include/sdp_memory.h \
+  external/opencore/protocols/sdp/common/include/common_info.h \
+  external/opencore/baselibs/media_data_structures/src/media_clock_converter.h \
+  external/opencore/protocols/sdp/common/include/sdp_info.h \
+  external/opencore/protocols/sdp/common/include/session_info.h \
+  external/opencore/protocols/sdp/common/include/media_info.h \
+  out/target/product/g945/obj/include/libpv/oscl_refcounter.h \
+  external/opencore/protocols/sdp/common/include/aac_payload_info.h \
+  external/opencore/protocols/sdp/common/include/payload_info.h \
+  external/opencore/protocols/sdp/common/include/amr_payload_info.h \
+  external/opencore/protocols/sdp/common/include/pcmu_payload_info.h \
+  external/opencore/protocols/sdp/common/include/pcma_payload_info.h \
+  external/opencore/protocols/sdp/common/include/h263_payload_info.h \
+  external/opencore/protocols/sdp/common/include/h264_payload_info.h \
+  external/opencore/protocols/sdp/common/include/evrc_payload_info.h \
+  external/opencore/protocols/sdp/common/include/m4v_payload_info.h \
+  external/opencore/protocols/sdp/common/include/rfc3640_payload_info.h \
+  external/opencore/protocols/sdp/common/include/aac_media_info.h \
+  external/opencore/protocols/sdp/common/include/amr_media_info.h \
+  external/opencore/protocols/sdp/common/include/evrc_media_info.h \
+  external/opencore/protocols/sdp/common/include/m4v_media_info.h \
+  external/opencore/protocols/sdp/common/include/rfc3640_media_info.h \
+  external/opencore/protocols/sdp/common/include/h263_media_info.h \
+  external/opencore/protocols/sdp/common/include/still_image_media_info.h \
+  external/opencore/baselibs/gen_data_structures/src/bool_array.h \
+  external/opencore/protocols/sdp/common/include/pcmu_media_info.h \
+  external/opencore/protocols/sdp/common/include/pcma_media_info.h \
+  external/opencore/baselibs/gen_data_structures/src/mime_registry.h \
+  external/opencore/protocols/sdp/parser/include/sdp_parsing_utils.h \
+  external/opencore/protocols/sdp/parser/include/base_media_info_parser.h \
+  external/opencore/protocols/sdp/common/include/media_info.h \
+  out/target/product/g945/obj/include/libpv/pvlogger_file_appender.h \
+  out/target/product/g945/obj/include/libpv/oscl_mem_auto_ptr.h \
+  out/target/product/g945/obj/include/libpv/oscl_file_io.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_io.h \
+  bionic/libc/include/sys/socket.h \
+  bionic/libc/kernel/common/linux/socket.h \
+  bionic/libc/kernel/arch-x86/asm/socket.h \
+  bionic/libc/kernel/arch-x86/asm/sockios.h \
+  bionic/libc/kernel/common/linux/sockios.h \
+  bionic/libc/include/netinet/in.h bionic/libc/arch-x86/include/endian.h \
+  bionic/libc/include/sys/endian.h bionic/libc/kernel/common/linux/in.h \
+  bionic/libc/kernel/arch-x86/asm/byteorder.h \
+  bionic/libc/kernel/common/linux/byteorder/little_endian.h \
+  bionic/libc/kernel/common/linux/byteorder/swab.h \
+  bionic/libc/kernel/common/linux/byteorder/generic.h \
+  bionic/libc/kernel/common/linux/in6.h bionic/libc/include/arpa/inet.h \
+  bionic/libc/include/netinet/in6.h bionic/libc/include/fcntl.h \
+  bionic/libc/kernel/common/linux/fcntl.h \
+  bionic/libc/kernel/arch-x86/asm/fcntl.h \
+  bionic/libc/kernel/common/asm-generic/fcntl.h \
+  bionic/libc/include/netdb.h bionic/libc/include/sys/mman.h \
+  bionic/libc/kernel/arch-x86/asm/mman.h \
+  bionic/libc/kernel/common/asm-generic/mman.h \
+  bionic/libc/kernel/arch-x86/asm/page.h \
+  bionic/libc/kernel/arch-x86/asm/page_32.h \
+  bionic/libc/include/sys/stat.h bionic/libc/kernel/common/linux/stat.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_io_check.h \
+  out/target/product/g945/obj/include/libpv/oscl_file_server.h \
+  out/target/product/g945/obj/include/libpv/oscl_file_find.h \
+  out/target/product/g945/obj/include/libpv/oscl_file_dir_utils.h \
+  out/target/product/g945/obj/include/libpv/oscl_file_handle.h \
+  out/target/product/g945/obj/include/libpv/pvlogger_accessories.h \
+  external/opencore//nodes/pvprotocolenginenode/src/pvdl_config_file.h \
+  external/opencore/nodes/common/include/pvmf_download_data_source.h \
+  external/opencore/pvmi/pvmf/include/pv_interface.h \
+  external/opencore/nodes/common/include/pvmf_source_context_data.h \
+  out/target/product/g945/obj/include/libpv/oscl_timer.h \
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_util.h \
+  external/opencore/oscl/oscl/config/shared/osclconfig_util_check.h \
+  out/target/product/g945/obj/include/libpv/oscl_rand.h \
+  out/target/product/g945/obj/include/libpv/oscl_rand.inl \
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_common.h \
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_internal.h \
+  external/opencore/nodes/common/include/pvmf_format_progdownload_support_extension.h \
+  out/target/product/g945/obj/include/libpv/oscl_string_utils.h \
+  out/target/product/g945/obj/include/libpv/oscl_snprintf.h \
+  out/target/product/g945/obj/include/libpv/http_composer.h \
+  out/target/product/g945/obj/include/libpv/oscl_base.h \
+  out/target/product/g945/obj/include/libpv/oscl_str_ptr_len.h \
+  out/target/product/g945/obj/include/libpv/http_parser.h \
+  out/target/product/g945/obj/include/libpv/http_parser_external.h \
+  out/target/product/g945/obj/include/libpv/oscl_refcounter_memfrag.h \
+  out/target/product/g945/obj/include/libpv/oscl_vector.h \
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node_download_common.h \
+  external/opencore//nodes/pvprotocolenginenode/config/linux/pvmf_protocolengine_node_tunables.h \
+  external/opencore//nodes/pvprotocolenginenode/include/../../../engines/player/src/pv_player_sdkinfo.h
+ external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node_download_common.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node.h :
+  external/opencore/pvmi/pvmf/include/pvmf_node_interface.h :
+  out/target/product/g945/obj/include/libpv/oscl_base.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig.h :
+  bionic/libc/include/dirent.h bionic/libc/include/stdint.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/dlfcn.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_limits_typedefs.h :
+  bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+  bionic/libc/kernel/common/linux/limits.h :
+  bionic/libc/arch-x86/include/machine/internal_types.h :
+  bionic/libc/arch-x86/include/machine/limits.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_unix_nj.h :
+  bionic/libc/include/stdlib.h bionic/libc/include/string.h :
+  bionic/libc/include/malloc.h bionic/libc/include/alloca.h :
+  bionic/libc/include/strings.h bionic/libc/include/memory.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  bionic/libc/include/sys/types.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdio.h :
+  bionic/libc/include/unistd.h bionic/libc/include/sys/select.h :
+  bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h :
+  bionic/libc/include/sys/sysconf.h :
+  bionic/libc/kernel/common/linux/capability.h :
+  bionic/libc/include/pathconf.h bionic/libc/include/pthread.h :
+  bionic/libc/include/time.h bionic/libc/kernel/arch-x86/asm/siginfo.h :
+  bionic/libc/kernel/common/asm-generic/siginfo.h :
+  bionic/libc/include/signal.h bionic/libc/kernel/arch-x86/asm/signal.h :
+  bionic/libc/kernel/common/asm-generic/signal.h :
+  bionic/libc/include/sched.h bionic/libc/include/ctype.h :
+  bionic/libstdc++/include/new bionic/libm/include/math.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_ix86.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_check.h :
+  out/target/product/g945/obj/include/libpv/oscl_base_macros.h :
+  out/target/product/g945/obj/include/libpv/oscl_types.h :
+  out/target/product/g945/obj/include/libpv/oscl_lock_base.h :
+  out/target/product/g945/obj/include/libpv/oscl_vector.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem_basic_functions.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem_basic_functions.inl :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_memory.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_ansi_memory.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_memory_check.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_compiler_warnings.h :
+  out/target/product/g945/obj/include/libpv/oscl_assert.h :
+  out/target/product/g945/obj/include/libpv/oscl_assert.inl :
+  frameworks/base/include/utils/Log.h system/core/include/cutils/log.h :
+  system/core/include/cutils/uio.h bionic/libc/include/sys/uio.h :
+  bionic/libc/kernel/common/linux/uio.h system/core/include/cutils/logd.h :
+  out/target/product/g945/obj/include/libpv/oscl_opaque_type.h :
+  out/target/product/g945/obj/include/libpv/oscl_defalloc.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem_inst.h :
+  external/opencore/pvmi/pvmf/include/pvmf_event_handling.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem_auto_ptr.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem.h :
+  out/target/product/g945/obj/include/libpv/oscl_refcounter.h :
+  out/target/product/g945/obj/include/libpv/oscl_error.h :
+  out/target/product/g945/obj/include/libpv/oscl_heapbase.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_error.h :
+  bionic/libc/include/setjmp.h :
+  bionic/libc/arch-x86/include/machine/setjmp.h :
+  bionic/libc/include/errno.h bionic/libc/kernel/common/linux/errno.h :
+  bionic/libc/kernel/arch-x86/asm/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno-base.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_error_check.h :
+  out/target/product/g945/obj/include/libpv/oscl_heapbase.inl :
+  out/target/product/g945/obj/include/libpv/oscl_execpanic.h :
+  out/target/product/g945/obj/include/libpv/oscl_error_codes.h :
+  out/target/product/g945/obj/include/libpv/oscl_singleton.h :
+  out/target/product/g945/obj/include/libpv/oscl_tls.h :
+  out/target/product/g945/obj/include/libpv/oscl_exception.h :
+  out/target/product/g945/obj/include/libpv/oscl_error_imp.h :
+  out/target/product/g945/obj/include/libpv/oscl_error_imp_jumps.h :
+  out/target/product/g945/obj/include/libpv/oscl_error_trapcleanup.h :
+  out/target/product/g945/obj/include/libpv/oscl_error_panic.h :
+  out/target/product/g945/obj/include/libpv/oscl_namestring.h :
+  out/target/product/g945/obj/include/libpv/oscl_base_alloc.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem.inl :
+  external/opencore/pvmi/pvmf/include/pvmf_return_codes.h :
+  external/opencore/pvmi/pvmf/include/pv_interface.h :
+  external/opencore/pvmi/pvmf/include/pv_uuid.h :
+  out/target/product/g945/obj/include/libpv/oscl_uuid.h :
+  out/target/product/g945/obj/include/libpv/oscl_string_utils.h :
+  out/target/product/g945/obj/include/libpv/oscl_stdstring.h :
+  external/opencore/pvmi/pvmf/include/pvmf_port_interface.h :
+  out/target/product/g945/obj/include/libpv/oscl_shared_ptr.h :
+  external/opencore/pvmi/pvmf/include/pvmf_format_type.h :
+  out/target/product/g945/obj/include/libpv/oscl_string.h :
+  external/opencore/pvmi/pvmf/include/pvmf_media_msg.h :
+  external/opencore/pvmi/pvmf/include/pvmf_timestamp.h :
+  out/target/product/g945/obj/include/libpv/oscl_refcounter_memfrag.h :
+  external/opencore/pvmi/pvmf/include/pvmf_node_utils.h :
+  out/target/product/g945/obj/include/libpv/oscl_string_containers.h :
+  out/target/product/g945/obj/include/libpv/oscl_string_rep.h :
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_ao.h :
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_types.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_proc.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_proc_unix_nj.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_proc_check.h :
+  bionic/libc/include/sys/prctl.h bionic/libc/kernel/common/linux/prctl.h :
+  out/target/product/g945/obj/include/libpv/oscl_aostatus.h :
+  out/target/product/g945/obj/include/libpv/oscl_aostatus.inl :
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_aobase.h :
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_threadcontext.h :
+  out/target/product/g945/obj/include/libpv/oscl_double_list.h :
+  out/target/product/g945/obj/include/libpv/oscl_double_list.inl :
+  out/target/product/g945/obj/include/libpv/oscl_mutex.h :
+  out/target/product/g945/obj/include/libpv/oscl_thread.h :
+  out/target/product/g945/obj/include/libpv/oscl_procstatus.h :
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_readyq.h :
+  out/target/product/g945/obj/include/libpv/oscl_scheduler_tuneables.h :
+  out/target/product/g945/obj/include/libpv/oscl_priqueue.h :
+  out/target/product/g945/obj/include/libpv/oscl_semaphore.h :
+  external/opencore/pvmi/pvmf/include/pvmf_pool_buffer_allocator.h :
+  external/opencore/pvmi/pvmf/include/pvmi_config_and_capability.h :
+  external/opencore/pvmi/pvmf/include/pvmi_config_and_capability_observer.h :
+  external/opencore/pvmi/pvmf/include/pvmi_kvp.h :
+  external/opencore/pvmi/pvmf/include/pvmf_mempool.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem_mempool.h :
+  out/target/product/g945/obj/include/libpv/pvlogger.h :
+  out/target/product/g945/obj/include/libpv/oscl_shared_ptr.h :
+  external/opencore/pvmi/pvmf/include/pvmf_media_cmd.h :
+  external/opencore/pvmi/pvmf/include/pvmf_media_data.h :
+  external/opencore/pvmi/pvmf/include/pvmi_data_stream_interface.h :
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_port.h :
+  external/opencore/pvmi/pvmf/include/pvmf_port_base_impl.h :
+  out/target/product/g945/obj/include/libpv/oscl_queue.h :
+  external/opencore/pvmi/pvmf/include/pvmi_config_and_capability_utils.h :
+  external/opencore//nodes/pvprotocolenginenode/include/pvmf_protocol_engine_defs.h :
+  external/opencore/nodes/common/include/pvmf_data_source_init_extension.h :
+  out/target/product/g945/obj/include/libpv/oscl_clock.h :
+  out/target/product/g945/obj/include/libpv/oscl_tickcount.h :
+  out/target/product/g945/obj/include/libpv/oscl_tickcount.inl :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_time.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_time_check.h :
+  out/target/product/g945/obj/include/libpv/oscl_int64_utils.h :
+  external/opencore/pvmi/pvmf/include/pvmi_datastreamuser_interface.h :
+  out/target/product/g945/obj/include/libpv/pvmf_cpmplugin_access_interface_factory.h :
+  out/target/product/g945/obj/include/libpv/pv_interface.h :
+  external/opencore//nodes/pvprotocolenginenode/include/pvmf_protocol_engine_node_extension.h :
+  external/opencore//nodes/pvprotocolenginenode/include/pvmf_protocol_engine_node_events.h :
+  external/opencore/pvmi/pvmf/include/pvmf_basic_errorinfomessage.h :
+  external/opencore/pvmi/pvmf/include/pvmf_errorinfomessage_extension.h :
+  external/opencore/nodes/common/include/pvmf_download_progress_interface.h :
+  external/opencore/nodes/common/include/pvmf_track_selection_extension.h :
+  external/opencore/nodes/common/include/pvmf_media_presentation_info.h :
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node_common.h :
+  external/opencore/pvmi/pvmf/include/pvmf_simple_media_buffer.h :
+  external/opencore/pvmi/pvmf/include/pvmf_media_data_impl.h :
+  external/opencore/pvmi/pvmf/include/pvmf_meta_data_types.h :
+  external/opencore/pvmi/pvmf/include/pvmf_media_msg_format_ids.h :
+  external/opencore/protocols/sdp/parser/include/sdp_parser.h :
+  out/target/product/g945/obj/include/libpv/oscl_types.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem.h :
+  external/opencore/protocols/sdp/parser/include/sdp_mediaparser_registry.h :
+  out/target/product/g945/obj/include/libpv/oscl_map.h :
+  out/target/product/g945/obj/include/libpv/oscl_tree.h :
+  out/target/product/g945/obj/include/libpv/oscl_base_alloc.h :
+  out/target/product/g945/obj/include/libpv/oscl_str_ptr_len.h :
+  out/target/product/g945/obj/include/libpv/oscl_error.h :
+  external/opencore/protocols/sdp/parser/include/sdp_mediaparser_factory.h :
+  external/opencore/protocols/sdp/parser/include/session_info_parser.h :
+  external/opencore/protocols/sdp/common/include/sdp_error.h :
+  external/opencore/protocols/sdp/common/include/sdp_memory.h :
+  external/opencore/protocols/sdp/common/include/session_info.h :
+  out/target/product/g945/obj/include/libpv/oscl_time.h :
+  out/target/product/g945/obj/include/libpv/oscl_time.inl :
+  external/opencore/baselibs/gen_data_structures/src/rtsp_time_formats.h :
+  external/opencore/baselibs/gen_data_structures/src/rtsp_range_utils.h :
+  external/opencore/baselibs/gen_data_structures/src/rtsp_time_formats.h :
+  external/opencore/protocols/sdp/common/include/sdp_error.h :
+  external/opencore/protocols/sdp/common/include/sdp_memory.h :
+  external/opencore/protocols/sdp/common/include/common_info.h :
+  external/opencore/baselibs/media_data_structures/src/media_clock_converter.h :
+  external/opencore/protocols/sdp/common/include/sdp_info.h :
+  external/opencore/protocols/sdp/common/include/session_info.h :
+  external/opencore/protocols/sdp/common/include/media_info.h :
+  out/target/product/g945/obj/include/libpv/oscl_refcounter.h :
+  external/opencore/protocols/sdp/common/include/aac_payload_info.h :
+  external/opencore/protocols/sdp/common/include/payload_info.h :
+  external/opencore/protocols/sdp/common/include/amr_payload_info.h :
+  external/opencore/protocols/sdp/common/include/pcmu_payload_info.h :
+  external/opencore/protocols/sdp/common/include/pcma_payload_info.h :
+  external/opencore/protocols/sdp/common/include/h263_payload_info.h :
+  external/opencore/protocols/sdp/common/include/h264_payload_info.h :
+  external/opencore/protocols/sdp/common/include/evrc_payload_info.h :
+  external/opencore/protocols/sdp/common/include/m4v_payload_info.h :
+  external/opencore/protocols/sdp/common/include/rfc3640_payload_info.h :
+  external/opencore/protocols/sdp/common/include/aac_media_info.h :
+  external/opencore/protocols/sdp/common/include/amr_media_info.h :
+  external/opencore/protocols/sdp/common/include/evrc_media_info.h :
+  external/opencore/protocols/sdp/common/include/m4v_media_info.h :
+  external/opencore/protocols/sdp/common/include/rfc3640_media_info.h :
+  external/opencore/protocols/sdp/common/include/h263_media_info.h :
+  external/opencore/protocols/sdp/common/include/still_image_media_info.h :
+  external/opencore/baselibs/gen_data_structures/src/bool_array.h :
+  external/opencore/protocols/sdp/common/include/pcmu_media_info.h :
+  external/opencore/protocols/sdp/common/include/pcma_media_info.h :
+  external/opencore/baselibs/gen_data_structures/src/mime_registry.h :
+  external/opencore/protocols/sdp/parser/include/sdp_parsing_utils.h :
+  external/opencore/protocols/sdp/parser/include/base_media_info_parser.h :
+  external/opencore/protocols/sdp/common/include/media_info.h :
+  out/target/product/g945/obj/include/libpv/pvlogger_file_appender.h :
+  out/target/product/g945/obj/include/libpv/oscl_mem_auto_ptr.h :
+  out/target/product/g945/obj/include/libpv/oscl_file_io.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_io.h :
+  bionic/libc/include/sys/socket.h :
+  bionic/libc/kernel/common/linux/socket.h :
+  bionic/libc/kernel/arch-x86/asm/socket.h :
+  bionic/libc/kernel/arch-x86/asm/sockios.h :
+  bionic/libc/kernel/common/linux/sockios.h :
+  bionic/libc/include/netinet/in.h bionic/libc/arch-x86/include/endian.h :
+  bionic/libc/include/sys/endian.h bionic/libc/kernel/common/linux/in.h :
+  bionic/libc/kernel/arch-x86/asm/byteorder.h :
+  bionic/libc/kernel/common/linux/byteorder/little_endian.h :
+  bionic/libc/kernel/common/linux/byteorder/swab.h :
+  bionic/libc/kernel/common/linux/byteorder/generic.h :
+  bionic/libc/kernel/common/linux/in6.h bionic/libc/include/arpa/inet.h :
+  bionic/libc/include/netinet/in6.h bionic/libc/include/fcntl.h :
+  bionic/libc/kernel/common/linux/fcntl.h :
+  bionic/libc/kernel/arch-x86/asm/fcntl.h :
+  bionic/libc/kernel/common/asm-generic/fcntl.h :
+  bionic/libc/include/netdb.h bionic/libc/include/sys/mman.h :
+  bionic/libc/kernel/arch-x86/asm/mman.h :
+  bionic/libc/kernel/common/asm-generic/mman.h :
+  bionic/libc/kernel/arch-x86/asm/page.h :
+  bionic/libc/kernel/arch-x86/asm/page_32.h :
+  bionic/libc/include/sys/stat.h bionic/libc/kernel/common/linux/stat.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_io_check.h :
+  out/target/product/g945/obj/include/libpv/oscl_file_server.h :
+  out/target/product/g945/obj/include/libpv/oscl_file_find.h :
+  out/target/product/g945/obj/include/libpv/oscl_file_dir_utils.h :
+  out/target/product/g945/obj/include/libpv/oscl_file_handle.h :
+  out/target/product/g945/obj/include/libpv/pvlogger_accessories.h :
+  external/opencore//nodes/pvprotocolenginenode/src/pvdl_config_file.h :
+  external/opencore/nodes/common/include/pvmf_download_data_source.h :
+  external/opencore/pvmi/pvmf/include/pv_interface.h :
+  external/opencore/nodes/common/include/pvmf_source_context_data.h :
+  out/target/product/g945/obj/include/libpv/oscl_timer.h :
+  external/opencore/oscl/oscl/config/linux_nj/osclconfig_util.h :
+  external/opencore/oscl/oscl/config/shared/osclconfig_util_check.h :
+  out/target/product/g945/obj/include/libpv/oscl_rand.h :
+  out/target/product/g945/obj/include/libpv/oscl_rand.inl :
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_common.h :
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_internal.h :
+  external/opencore/nodes/common/include/pvmf_format_progdownload_support_extension.h :
+  out/target/product/g945/obj/include/libpv/oscl_string_utils.h :
+  out/target/product/g945/obj/include/libpv/oscl_snprintf.h :
+  out/target/product/g945/obj/include/libpv/http_composer.h :
+  out/target/product/g945/obj/include/libpv/oscl_base.h :
+  out/target/product/g945/obj/include/libpv/oscl_str_ptr_len.h :
+  out/target/product/g945/obj/include/libpv/http_parser.h :
+  out/target/product/g945/obj/include/libpv/http_parser_external.h :
+  out/target/product/g945/obj/include/libpv/oscl_refcounter_memfrag.h :
+  out/target/product/g945/obj/include/libpv/oscl_vector.h :
+  external/opencore//nodes/pvprotocolenginenode/src/pvmf_protocol_engine_node_download_common.h :
+  external/opencore//nodes/pvprotocolenginenode/config/linux/pvmf_protocolengine_node_tunables.h :
+  external/opencore//nodes/pvprotocolenginenode/include/../../../engines/player/src/pv_player_sdkinfo.h :

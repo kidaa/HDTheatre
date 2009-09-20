@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/mke2fs_intermediates/default_profile.o:  \
+ external/e2fsprogs/misc/default_profile.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/e2fsprogs/misc/default_profile.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

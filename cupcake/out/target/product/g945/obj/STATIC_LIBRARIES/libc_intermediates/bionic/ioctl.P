@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libc_intermediates/bionic/ioctl.o:  \
+ bionic/libc/bionic/ioctl.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h
+ bionic/libc/bionic/ioctl.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :

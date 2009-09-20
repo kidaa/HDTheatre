@@ -1,0 +1,5 @@
+out/target/common/obj/APPS/IM_intermediates/src/src/com/android/im/IRemoteImService.java: \
+  packages/apps/IM/src/com/android/im/IRemoteImService.aidl \
+  packages/apps/IM/src/com/android/im/IImConnection.aidl \
+  packages/apps/IM/src/com/android/im/IConnectionCreationListener.aidl 
+

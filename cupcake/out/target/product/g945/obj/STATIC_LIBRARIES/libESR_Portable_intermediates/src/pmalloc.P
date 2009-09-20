@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libESR_Portable_intermediates/src/pmalloc.o:  \
+ external/srec/portable/src/pmalloc.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/srec/portable/src/pmalloc.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

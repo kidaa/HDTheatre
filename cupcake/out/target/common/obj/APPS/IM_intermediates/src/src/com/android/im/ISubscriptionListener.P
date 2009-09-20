@@ -1,0 +1,4 @@
+out/target/common/obj/APPS/IM_intermediates/src/src/com/android/im/ISubscriptionListener.java: \
+  packages/apps/IM/src/com/android/im/ISubscriptionListener.aidl \
+  packages/apps/IM/src/com/android/im/engine/Contact.aidl 
+

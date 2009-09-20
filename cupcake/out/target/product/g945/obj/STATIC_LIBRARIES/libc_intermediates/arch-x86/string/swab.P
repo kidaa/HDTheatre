@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libc_intermediates/arch-x86/string/swab.o:  \
+ bionic/libc/arch-x86/string/swab.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  bionic/libc/arch-x86/include/machine/asm.h
+ bionic/libc/arch-x86/string/swab.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  bionic/libc/arch-x86/include/machine/asm.h :

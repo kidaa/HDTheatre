@@ -1,0 +1,7 @@
+out/target/product/g945/obj/EXECUTABLES/openssl_intermediates/ecparam.o:  \
+ external/openssl/apps/ecparam.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/openssl/include/openssl/opensslconf.h
+ external/openssl/apps/ecparam.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/openssl/include/openssl/opensslconf.h :

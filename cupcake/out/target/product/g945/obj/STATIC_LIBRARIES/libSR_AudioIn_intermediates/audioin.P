@@ -1,0 +1,10 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libSR_AudioIn_intermediates/audioin.o:  \
+ external/srec/audio/AudioIn/UNIX/src/audioin.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/srec/audio/AudioIn/UNIX/src/../include/audioin.h \
+  external/srec/audio/AudioIn/UNIX/src/../include/audioinerr.h
+ external/srec/audio/AudioIn/UNIX/src/audioin.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/srec/audio/AudioIn/UNIX/src/../include/audioin.h :
+  external/srec/audio/AudioIn/UNIX/src/../include/audioinerr.h :

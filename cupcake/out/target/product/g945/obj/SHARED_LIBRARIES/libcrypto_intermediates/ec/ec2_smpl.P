@@ -1,0 +1,90 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libcrypto_intermediates/ec/ec2_smpl.o:  \
+ external/openssl/crypto/ec/ec2_smpl.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/openssl/include/openssl/err.h \
+  external/openssl/include/openssl/e_os2.h \
+  external/openssl/include/openssl/opensslconf.h \
+  bionic/libc/include/stdio.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/sys/types.h bionic/libc/include/stdint.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdlib.h \
+  bionic/libc/include/string.h bionic/libc/include/malloc.h \
+  bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+  bionic/libc/include/memory.h \
+  external/openssl/include/openssl/ossl_typ.h \
+  external/openssl/include/openssl/bio.h \
+  external/openssl/include/openssl/crypto.h \
+  external/openssl/include/openssl/stack.h \
+  external/openssl/include/openssl/safestack.h \
+  external/openssl/include/openssl/opensslv.h \
+  external/openssl/include/openssl/symhacks.h \
+  external/openssl/include/openssl/lhash.h bionic/libc/include/errno.h \
+  bionic/libc/kernel/common/linux/errno.h \
+  bionic/libc/kernel/arch-x86/asm/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno-base.h \
+  external/openssl/crypto/ec/ec_lcl.h \
+  external/openssl/include/openssl/obj_mac.h \
+  external/openssl/include/openssl/ec.h \
+  external/openssl/include/openssl/asn1.h bionic/libc/include/time.h \
+  bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h \
+  bionic/libc/kernel/arch-x86/asm/siginfo.h \
+  bionic/libc/kernel/common/asm-generic/siginfo.h \
+  external/openssl/include/openssl/bn.h \
+  external/openssl/crypto/ec/ec2_smpt.c
+ external/openssl/crypto/ec/ec2_smpl.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/openssl/include/openssl/err.h :
+  external/openssl/include/openssl/e_os2.h :
+  external/openssl/include/openssl/opensslconf.h :
+  bionic/libc/include/stdio.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/sys/cdefs_elf.h bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/sys/types.h bionic/libc/include/stdint.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/stdlib.h :
+  bionic/libc/include/string.h bionic/libc/include/malloc.h :
+  bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+  bionic/libc/include/memory.h :
+  external/openssl/include/openssl/ossl_typ.h :
+  external/openssl/include/openssl/bio.h :
+  external/openssl/include/openssl/crypto.h :
+  external/openssl/include/openssl/stack.h :
+  external/openssl/include/openssl/safestack.h :
+  external/openssl/include/openssl/opensslv.h :
+  external/openssl/include/openssl/symhacks.h :
+  external/openssl/include/openssl/lhash.h bionic/libc/include/errno.h :
+  bionic/libc/kernel/common/linux/errno.h :
+  bionic/libc/kernel/arch-x86/asm/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno-base.h :
+  external/openssl/crypto/ec/ec_lcl.h :
+  external/openssl/include/openssl/obj_mac.h :
+  external/openssl/include/openssl/ec.h :
+  external/openssl/include/openssl/asn1.h bionic/libc/include/time.h :
+  bionic/libc/include/sys/time.h bionic/libc/kernel/common/linux/time.h :
+  bionic/libc/kernel/arch-x86/asm/siginfo.h :
+  bionic/libc/kernel/common/asm-generic/siginfo.h :
+  external/openssl/include/openssl/bn.h :
+  external/openssl/crypto/ec/ec2_smpt.c :

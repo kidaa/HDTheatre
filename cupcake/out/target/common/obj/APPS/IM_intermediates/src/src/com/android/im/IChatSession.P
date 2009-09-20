@@ -1,0 +1,5 @@
+out/target/common/obj/APPS/IM_intermediates/src/src/com/android/im/IChatSession.java: \
+  packages/apps/IM/src/com/android/im/IChatSession.aidl \
+  packages/apps/IM/src/com/android/im/IChatListener.aidl \
+  packages/apps/IM/src/com/android/im/engine/Message.aidl 
+

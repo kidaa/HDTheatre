@@ -1,0 +1,12 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/x86/3dnow_xform3.o:  \
+ external/mesa/src/mesa/x86/3dnow_xform3.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/mesa/src/mesa/x86/assyntax.h \
+  out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/matypes.h \
+  external/mesa/src/mesa/x86/xform_args.h
+ external/mesa/src/mesa/x86/3dnow_xform3.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/mesa/src/mesa/x86/assyntax.h :
+  out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/matypes.h :
+  external/mesa/src/mesa/x86/xform_args.h :

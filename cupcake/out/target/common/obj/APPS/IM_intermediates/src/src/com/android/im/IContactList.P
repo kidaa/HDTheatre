@@ -1,0 +1,4 @@
+out/target/common/obj/APPS/IM_intermediates/src/src/com/android/im/IContactList.java: \
+  packages/apps/IM/src/com/android/im/IContactList.aidl \
+  packages/apps/IM/src/com/android/im/engine/Contact.aidl 
+

@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libreference-ril_intermediates/misc.o:  \
+ hardware/ril/reference-ril/misc.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ hardware/ril/reference-ril/misc.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

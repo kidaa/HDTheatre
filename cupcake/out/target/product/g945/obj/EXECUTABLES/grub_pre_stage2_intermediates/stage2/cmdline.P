@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/grub_pre_stage2_intermediates/stage2/cmdline.o:  \
+ external/grub/stage2/cmdline.c external/grub/stage2/shared.h \
+  external/grub/config.h external/grub/stage1/stage1.h \
+  external/grub/stage2/mb_header.h external/grub/stage2/mb_info.h
+ external/grub/stage2/cmdline.c external/grub/stage2/shared.h :
+  external/grub/config.h external/grub/stage1/stage1.h :
+  external/grub/stage2/mb_header.h external/grub/stage2/mb_info.h :

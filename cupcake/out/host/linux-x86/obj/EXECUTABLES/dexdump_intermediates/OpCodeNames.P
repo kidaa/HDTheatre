@@ -1,0 +1,7 @@
+out/host/linux-x86/obj/EXECUTABLES/dexdump_intermediates/OpCodeNames.o:  \
+ dalvik/dexdump/OpCodeNames.c \
+  system/core/include/arch/linux-x86/AndroidConfig.h \
+  dalvik/dexdump/OpCodeNames.h dalvik/libdex/OpCode.h
+ dalvik/dexdump/OpCodeNames.c :
+  system/core/include/arch/linux-x86/AndroidConfig.h :
+  dalvik/dexdump/OpCodeNames.h dalvik/libdex/OpCode.h :

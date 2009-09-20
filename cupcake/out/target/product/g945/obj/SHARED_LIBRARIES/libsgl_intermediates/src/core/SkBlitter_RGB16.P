@@ -1,0 +1,168 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libsgl_intermediates/src/core/SkBlitter_RGB16.o:  \
+ external/skia/src/core/SkBlitter_RGB16.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/skia/src/core/SkBlitRow.h \
+  external/skia/include/core/SkBitmap.h external/skia/include/core/Sk64.h \
+  external/skia/include/core/SkFixed.h \
+  external/skia/include/core/SkTypes.h \
+  external/skia/include/core/SkPreConfig.h \
+  external/skia/include/core/SkUserConfig.h \
+  frameworks/base/include/utils/misc.h bionic/libc/include/sys/time.h \
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+  bionic/libc/include/sys/types.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h \
+  bionic/libc/kernel/common/linux/time.h \
+  frameworks/base/include/utils/Endian.h \
+  bionic/libc/arch-x86/include/endian.h bionic/libc/include/sys/endian.h \
+  external/skia/include/core/SkPostConfig.h bionic/libc/include/string.h \
+  bionic/libc/include/malloc.h bionic/libc/include/stdlib.h \
+  bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+  bionic/libc/include/memory.h bionic/libc/include/stdio.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  external/skia/include/core/SkMath.h \
+  external/skia/include/core/SkColor.h \
+  external/skia/include/core/SkScalar.h \
+  external/skia/include/core/SkFloatingPoint.h bionic/libm/include/math.h \
+  bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+  bionic/libc/kernel/common/linux/limits.h \
+  bionic/libc/arch-x86/include/machine/internal_types.h \
+  bionic/libc/arch-x86/include/machine/limits.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/float.h \
+  external/skia/include/core/SkFloatBits.h \
+  external/skia/include/core/SkPoint.h \
+  external/skia/include/core/SkRefCnt.h \
+  external/skia/include/core/SkThread.h \
+  external/skia/include/core/SkThread_platform.h \
+  frameworks/base/include/utils/threads.h bionic/libc/include/time.h \
+  bionic/libc/kernel/arch-x86/asm/siginfo.h \
+  bionic/libc/kernel/common/asm-generic/siginfo.h \
+  frameworks/base/include/utils/Errors.h bionic/libc/include/errno.h \
+  bionic/libc/kernel/common/linux/errno.h \
+  bionic/libc/kernel/arch-x86/asm/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno.h \
+  bionic/libc/kernel/common/asm-generic/errno-base.h \
+  frameworks/base/include/utils/RefBase.h \
+  system/core/include/cutils/atomic.h \
+  frameworks/base/include/utils/TextOutput.h \
+  frameworks/base/include/utils/Timers.h \
+  frameworks/base/include/utils/Atomic.h \
+  external/skia/include/core/SkColor.h \
+  external/skia/src/core/SkCoreBlitters.h \
+  external/skia/include/core/SkBlitter.h \
+  external/skia/include/core/SkBitmap.h \
+  external/skia/include/core/SkMatrix.h \
+  external/skia/include/core/SkRect.h \
+  external/skia/include/core/SkPaint.h \
+  external/skia/include/core/SkPorterDuff.h \
+  external/skia/include/core/SkPathEffect.h \
+  external/skia/include/core/SkFlattenable.h \
+  external/skia/include/core/SkReader32.h \
+  external/skia/include/core/SkTDArray.h \
+  external/skia/include/core/SkWriter32.h \
+  external/skia/include/core/SkPtrRecorder.h \
+  external/skia/include/core/SkRegion.h \
+  external/skia/include/core/SkMask.h \
+  external/skia/include/core/SkColorPriv.h \
+  external/skia/include/core/SkDither.h \
+  external/skia/include/core/SkColorPriv.h \
+  external/skia/include/core/SkShader.h \
+  external/skia/include/core/SkUtils.h \
+  system/core/include/cutils/memory.h \
+  external/skia/include/core/SkXfermode.h \
+  external/skia/src/core/SkBlitBWMaskTemplate.h \
+  external/skia/include/core/SkMask.h
+ external/skia/src/core/SkBlitter_RGB16.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/skia/src/core/SkBlitRow.h :
+  external/skia/include/core/SkBitmap.h external/skia/include/core/Sk64.h :
+  external/skia/include/core/SkFixed.h :
+  external/skia/include/core/SkTypes.h :
+  external/skia/include/core/SkPreConfig.h :
+  external/skia/include/core/SkUserConfig.h :
+  frameworks/base/include/utils/misc.h bionic/libc/include/sys/time.h :
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+  bionic/libc/include/sys/types.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h :
+  bionic/libc/kernel/common/linux/time.h :
+  frameworks/base/include/utils/Endian.h :
+  bionic/libc/arch-x86/include/endian.h bionic/libc/include/sys/endian.h :
+  external/skia/include/core/SkPostConfig.h bionic/libc/include/string.h :
+  bionic/libc/include/malloc.h bionic/libc/include/stdlib.h :
+  bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+  bionic/libc/include/memory.h bionic/libc/include/stdio.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  external/skia/include/core/SkMath.h :
+  external/skia/include/core/SkColor.h :
+  external/skia/include/core/SkScalar.h :
+  external/skia/include/core/SkFloatingPoint.h bionic/libm/include/math.h :
+  bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+  bionic/libc/kernel/common/linux/limits.h :
+  bionic/libc/arch-x86/include/machine/internal_types.h :
+  bionic/libc/arch-x86/include/machine/limits.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/float.h :
+  external/skia/include/core/SkFloatBits.h :
+  external/skia/include/core/SkPoint.h :
+  external/skia/include/core/SkRefCnt.h :
+  external/skia/include/core/SkThread.h :
+  external/skia/include/core/SkThread_platform.h :
+  frameworks/base/include/utils/threads.h bionic/libc/include/time.h :
+  bionic/libc/kernel/arch-x86/asm/siginfo.h :
+  bionic/libc/kernel/common/asm-generic/siginfo.h :
+  frameworks/base/include/utils/Errors.h bionic/libc/include/errno.h :
+  bionic/libc/kernel/common/linux/errno.h :
+  bionic/libc/kernel/arch-x86/asm/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno.h :
+  bionic/libc/kernel/common/asm-generic/errno-base.h :
+  frameworks/base/include/utils/RefBase.h :
+  system/core/include/cutils/atomic.h :
+  frameworks/base/include/utils/TextOutput.h :
+  frameworks/base/include/utils/Timers.h :
+  frameworks/base/include/utils/Atomic.h :
+  external/skia/include/core/SkColor.h :
+  external/skia/src/core/SkCoreBlitters.h :
+  external/skia/include/core/SkBlitter.h :
+  external/skia/include/core/SkBitmap.h :
+  external/skia/include/core/SkMatrix.h :
+  external/skia/include/core/SkRect.h :
+  external/skia/include/core/SkPaint.h :
+  external/skia/include/core/SkPorterDuff.h :
+  external/skia/include/core/SkPathEffect.h :
+  external/skia/include/core/SkFlattenable.h :
+  external/skia/include/core/SkReader32.h :
+  external/skia/include/core/SkTDArray.h :
+  external/skia/include/core/SkWriter32.h :
+  external/skia/include/core/SkPtrRecorder.h :
+  external/skia/include/core/SkRegion.h :
+  external/skia/include/core/SkMask.h :
+  external/skia/include/core/SkColorPriv.h :
+  external/skia/include/core/SkDither.h :
+  external/skia/include/core/SkColorPriv.h :
+  external/skia/include/core/SkShader.h :
+  external/skia/include/core/SkUtils.h :
+  system/core/include/cutils/memory.h :
+  external/skia/include/core/SkXfermode.h :
+  external/skia/src/core/SkBlitBWMaskTemplate.h :
+  external/skia/include/core/SkMask.h :

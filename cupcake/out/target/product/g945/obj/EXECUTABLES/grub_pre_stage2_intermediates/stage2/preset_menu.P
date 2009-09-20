@@ -1,0 +1,4 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/grub_pre_stage2_intermediates/stage2/preset_menu.o:  \
+ external/grub/stage2/preset_menu.c
+ external/grub/stage2/preset_menu.c :

@@ -1,0 +1,12 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/x86/common_x86_asm.o:  \
+ external/mesa/src/mesa/x86/common_x86_asm.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/matypes.h \
+  external/mesa/src/mesa/x86/assyntax.h \
+  external/mesa/src/mesa/x86/common_x86_features.h
+ external/mesa/src/mesa/x86/common_x86_asm.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/matypes.h :
+  external/mesa/src/mesa/x86/assyntax.h :
+  external/mesa/src/mesa/x86/common_x86_features.h :

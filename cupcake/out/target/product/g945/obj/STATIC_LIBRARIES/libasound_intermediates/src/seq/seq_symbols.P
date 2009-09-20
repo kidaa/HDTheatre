@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libasound_intermediates/src/seq/seq_symbols.o:  \
+ external/alsa-lib/src/seq/seq_symbols.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/alsa-lib/src/seq/seq_symbols.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

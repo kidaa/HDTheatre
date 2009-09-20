@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libdvm_intermediates/arch/x86/Call386ABI.o:  \
+ dalvik/vm/arch/x86/Call386ABI.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ dalvik/vm/arch/x86/Call386ABI.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

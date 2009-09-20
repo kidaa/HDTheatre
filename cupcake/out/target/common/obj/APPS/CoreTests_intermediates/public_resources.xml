@@ -1,0 +1,20 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at frameworks/base/tests/CoreTests/android/res/values/colors.xml:20 -->
+  <public type="color" name="testcolor1" id="0x7f020000" />
+  <!-- Declared at frameworks/base/tests/CoreTests/android/res/values/colors.xml:21 -->
+  <public type="color" name="testcolor2" id="0x7f020001" />
+  <!-- Declared at frameworks/base/tests/CoreTests/android/res/values/colors.xml:22 -->
+  <public type="color" name="failColor" id="0x7f020002" />
+  <!-- Declared at res/color/color1.xml:0 -->
+  <public type="color" name="color1" id="0x7f020003" />
+  <!-- Declared at res/color/color_no_default.xml:0 -->
+  <public type="color" name="color_no_default" id="0x7f020004" />
+
+</resources>

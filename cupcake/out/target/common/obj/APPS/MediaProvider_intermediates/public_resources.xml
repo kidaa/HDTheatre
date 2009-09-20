@@ -1,0 +1,45 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable/ic_search_category_music_album.png:0 -->
+  <public type="drawable" name="ic_search_category_music_album" id="0x7f020000" />
+  <!-- Declared at res/drawable/ic_search_category_music_artist.png:0 -->
+  <public type="drawable" name="ic_search_category_music_artist" id="0x7f020001" />
+  <!-- Declared at res/drawable/ic_search_category_music_song.png:0 -->
+  <public type="drawable" name="ic_search_category_music_song" id="0x7f020002" />
+
+  <!-- Declared at packages/providers/MediaProvider/res/values/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-ja/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-de/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-nl/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-pl/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-ko/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-fr/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-cs/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-es/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-it/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-ru/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-zh-rCN/strings.xml:18 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-zh-rTW/strings.xml:18 -->
+  <public type="string" name="uid_label" id="0x7f030000" />
+  <!-- Declared at packages/providers/MediaProvider/res/values/strings.xml:22 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-ja/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-de/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-nl/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-pl/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-ko/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-fr/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-cs/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-es/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-it/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-ru/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-zh-rCN/strings.xml:19 -->
+  <!-- Declared at packages/providers/MediaProvider/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="app_label" id="0x7f030001" />
+
+</resources>

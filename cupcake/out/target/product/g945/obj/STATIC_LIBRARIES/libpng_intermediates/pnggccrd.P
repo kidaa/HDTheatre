@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libpng_intermediates/pnggccrd.o:  \
+ external/libpng/pnggccrd.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/libpng/pnggccrd.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

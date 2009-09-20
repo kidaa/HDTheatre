@@ -1,0 +1,2 @@
+#!/bin/bash
+TARGET_ARCH=x86 TARGET_PRODUCT=eee_701 DISABLE_DEXPREOPT=true make showcommands

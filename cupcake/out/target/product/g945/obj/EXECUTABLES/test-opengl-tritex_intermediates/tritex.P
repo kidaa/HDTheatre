@@ -1,0 +1,68 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/test-opengl-tritex_intermediates/tritex.o:  \
+ frameworks/base/opengl/tests/tritex/tritex.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  frameworks/base/opengl/include/EGL/egl.h \
+  frameworks/base/opengl/include/EGL/eglplatform.h \
+  frameworks/base/opengl/include/KHR/khrplatform.h \
+  bionic/libc/include/stdint.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h \
+  frameworks/base/opengl/include/EGL/eglnatives.h \
+  bionic/libc/include/sys/types.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/sys/cdefs_elf.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h \
+  frameworks/base/opengl/include/GLES/gl.h \
+  frameworks/base/opengl/include/GLES/glplatform.h \
+  bionic/libc/include/stdio.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  bionic/libc/include/stdlib.h bionic/libc/include/string.h \
+  bionic/libc/include/malloc.h bionic/libc/include/alloca.h \
+  bionic/libc/include/strings.h bionic/libc/include/memory.h \
+  bionic/libm/include/math.h bionic/libc/include/limits.h \
+  bionic/libc/include/sys/limits.h \
+  bionic/libc/kernel/common/linux/limits.h \
+  bionic/libc/arch-x86/include/machine/internal_types.h \
+  bionic/libc/arch-x86/include/machine/limits.h
+ frameworks/base/opengl/tests/tritex/tritex.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  frameworks/base/opengl/include/EGL/egl.h :
+  frameworks/base/opengl/include/EGL/eglplatform.h :
+  frameworks/base/opengl/include/KHR/khrplatform.h :
+  bionic/libc/include/stdint.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h :
+  frameworks/base/opengl/include/EGL/eglnatives.h :
+  bionic/libc/include/sys/types.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/sys/cdefs_elf.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h :
+  frameworks/base/opengl/include/GLES/gl.h :
+  frameworks/base/opengl/include/GLES/glplatform.h :
+  bionic/libc/include/stdio.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  bionic/libc/include/stdlib.h bionic/libc/include/string.h :
+  bionic/libc/include/malloc.h bionic/libc/include/alloca.h :
+  bionic/libc/include/strings.h bionic/libc/include/memory.h :
+  bionic/libm/include/math.h bionic/libc/include/limits.h :
+  bionic/libc/include/sys/limits.h :
+  bionic/libc/kernel/common/linux/limits.h :
+  bionic/libc/arch-x86/include/machine/internal_types.h :
+  bionic/libc/arch-x86/include/machine/limits.h :

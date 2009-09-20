@@ -1,0 +1,7 @@
+out/target/product/g945/obj/NOTICE_FILES/src/system/bin/dhcpcd.txt
+out/target/product/g945/obj/NOTICE_FILES/src/system/bin/showlease.txt
+out/target/product/g945/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-hooks/01-test.txt
+out/target/product/g945/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf.txt
+out/target/product/g945/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-hooks/95-configured.txt
+out/target/product/g945/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd-run-hooks.txt
+out/target/product/g945/obj/NOTICE_FILES/src/system/etc/dhcpcd/dhcpcd.conf.txt

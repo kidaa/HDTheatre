@@ -1,0 +1,3 @@
+out/target/common/obj/JAVA_LIBRARIES/com.android.im.plugin_intermediates/src/com/android/im/plugin/IPresenceMapping.java: \
+  packages/apps/IM/plugin/com/android/im/plugin/IPresenceMapping.aidl 
+

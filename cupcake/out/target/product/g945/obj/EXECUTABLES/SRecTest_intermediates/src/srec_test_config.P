@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/SRecTest_intermediates/src/srec_test_config.o:  \
+ external/srec/srec/test/SRecTest/src/srec_test_config.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/srec/srec/test/SRecTest/src/srec_test_config.h
+ external/srec/srec/test/SRecTest/src/srec_test_config.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/srec/srec/test/SRecTest/src/srec_test_config.h :

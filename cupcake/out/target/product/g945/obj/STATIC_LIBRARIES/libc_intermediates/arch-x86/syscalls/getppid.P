@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libc_intermediates/arch-x86/syscalls/getppid.o:  \
+ bionic/libc/arch-x86/syscalls/getppid.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  bionic/libc/include/sys/linux-syscalls.h
+ bionic/libc/arch-x86/syscalls/getppid.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  bionic/libc/include/sys/linux-syscalls.h :

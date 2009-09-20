@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libfdlibm_intermediates/k_rem_pio2.o:  \
+ external/fdlibm/k_rem_pio2.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/fdlibm/fdlibm.h
+ external/fdlibm/k_rem_pio2.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/fdlibm/fdlibm.h :

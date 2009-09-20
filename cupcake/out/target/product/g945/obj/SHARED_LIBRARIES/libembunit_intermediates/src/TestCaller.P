@@ -1,0 +1,10 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libembunit_intermediates/src/TestCaller.o:  \
+ external/embunit/src/TestCaller.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/embunit/inc/Test.h external/embunit/inc/TestCase.h \
+  external/embunit/inc/TestCaller.h
+ external/embunit/src/TestCaller.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/embunit/inc/Test.h external/embunit/inc/TestCase.h :
+  external/embunit/inc/TestCaller.h :

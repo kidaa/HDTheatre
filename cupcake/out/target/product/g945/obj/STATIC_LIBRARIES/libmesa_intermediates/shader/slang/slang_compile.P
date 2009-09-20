@@ -1,0 +1,168 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/shader/slang/slang_compile.o:  \
+ external/mesa/src/mesa/shader/slang/slang_compile.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/mesa/src/mesa/main/imports.h \
+  external/mesa/src/mesa/main/glheader.h bionic/libc/include/assert.h \
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+  bionic/libc/include/ctype.h bionic/libm/include/math.h \
+  bionic/libc/include/sys/types.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/limits.h \
+  bionic/libc/include/sys/limits.h \
+  bionic/libc/kernel/common/linux/limits.h \
+  bionic/libc/arch-x86/include/machine/internal_types.h \
+  bionic/libc/arch-x86/include/machine/limits.h \
+  bionic/libc/include/stdlib.h bionic/libc/include/string.h \
+  bionic/libc/include/malloc.h bionic/libc/include/alloca.h \
+  bionic/libc/include/strings.h bionic/libc/include/memory.h \
+  bionic/libc/include/stdio.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  /usr/include/fpu_control.h bionic/libc/include/features.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/float.h \
+  bionic/libc/include/inttypes.h \
+  external/mesa/src/mesa/../../include/GL/gl.h \
+  external/mesa/src/mesa/../../include/GL/glext.h \
+  external/mesa/src/mesa/main/config.h \
+  external/mesa/src/mesa/main/mfeatures.h \
+  external/mesa/src/mesa/../../include/GL/internal/glcore.h \
+  external/mesa/src/mesa/main/context.h \
+  external/mesa/src/mesa/glapi/glapi.h \
+  external/mesa/src/mesa/glapi/glthread.h bionic/libc/include/pthread.h \
+  bionic/libc/include/time.h bionic/libc/include/sys/time.h \
+  bionic/libc/kernel/common/linux/time.h \
+  bionic/libc/kernel/arch-x86/asm/siginfo.h \
+  bionic/libc/kernel/common/asm-generic/siginfo.h \
+  bionic/libc/include/signal.h bionic/libc/kernel/arch-x86/asm/signal.h \
+  bionic/libc/kernel/common/asm-generic/signal.h \
+  bionic/libc/include/sched.h external/mesa/src/mesa/main/imports.h \
+  external/mesa/src/mesa/main/mtypes.h \
+  external/mesa/src/mesa/math/m_matrix.h \
+  external/mesa/src/mesa/main/bitset.h external/mesa/src/mesa/main/dd.h \
+  external/mesa/src/mesa/shader/program.h \
+  external/mesa/src/mesa/main/mtypes.h \
+  external/mesa/src/mesa/shader/programopt.h \
+  external/mesa/src/mesa/shader/prog_print.h \
+  external/mesa/src/mesa/shader/prog_parameter.h \
+  external/mesa/src/mesa/shader/prog_statevars.h \
+  external/mesa/src/mesa/shader/grammar/grammar_mesa.h \
+  external/mesa/src/mesa/shader/grammar/grammar.h \
+  external/mesa/src/mesa/shader/slang/slang_codegen.h \
+  external/mesa/src/mesa/shader/slang/slang_compile.h \
+  external/mesa/src/mesa/shader/slang/slang_typeinfo.h \
+  external/mesa/src/mesa/shader/slang/slang_log.h \
+  external/mesa/src/mesa/shader/slang/slang_utility.h \
+  external/mesa/src/mesa/shader/slang/slang_vartable.h \
+  external/mesa/src/mesa/shader/slang/slang_compile_variable.h \
+  external/mesa/src/mesa/shader/slang/slang_compile_struct.h \
+  external/mesa/src/mesa/shader/slang/slang_compile_operation.h \
+  external/mesa/src/mesa/shader/slang/slang_compile_function.h \
+  external/mesa/src/mesa/shader/slang/slang_preprocess.h \
+  external/mesa/src/mesa/shader/slang/slang_storage.h \
+  external/mesa/src/mesa/shader/slang/slang_emit.h \
+  external/mesa/src/mesa/shader/slang/slang_ir.h \
+  external/mesa/src/mesa/shader/slang/slang_label.h \
+  external/mesa/src/mesa/shader/prog_instruction.h \
+  external/mesa/src/mesa/shader/slang/slang_mem.h \
+  external/mesa/src/mesa/shader/slang/slang_simplify.h \
+  external/mesa/src/mesa/shader/slang/slang_print.h \
+  external/mesa/src/mesa/shader/slang/library/slang_shader_syn.h \
+  external/mesa/src/mesa/shader/slang/library/slang_core_gc.h \
+  external/mesa/src/mesa/shader/slang/library/slang_120_core_gc.h \
+  external/mesa/src/mesa/shader/slang/library/slang_builtin_120_fragment_gc.h \
+  external/mesa/src/mesa/shader/slang/library/slang_common_builtin_gc.h \
+  external/mesa/src/mesa/shader/slang/library/slang_fragment_builtin_gc.h \
+  external/mesa/src/mesa/shader/slang/library/slang_vertex_builtin_gc.h
+ external/mesa/src/mesa/shader/slang/slang_compile.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/mesa/src/mesa/main/imports.h :
+  external/mesa/src/mesa/main/glheader.h bionic/libc/include/assert.h :
+  bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+  bionic/libc/include/ctype.h bionic/libm/include/math.h :
+  bionic/libc/include/sys/types.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/stdint.h bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h bionic/libc/include/limits.h :
+  bionic/libc/include/sys/limits.h :
+  bionic/libc/kernel/common/linux/limits.h :
+  bionic/libc/arch-x86/include/machine/internal_types.h :
+  bionic/libc/arch-x86/include/machine/limits.h :
+  bionic/libc/include/stdlib.h bionic/libc/include/string.h :
+  bionic/libc/include/malloc.h bionic/libc/include/alloca.h :
+  bionic/libc/include/strings.h bionic/libc/include/memory.h :
+  bionic/libc/include/stdio.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  /usr/include/fpu_control.h bionic/libc/include/features.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/float.h :
+  bionic/libc/include/inttypes.h :
+  external/mesa/src/mesa/../../include/GL/gl.h :
+  external/mesa/src/mesa/../../include/GL/glext.h :
+  external/mesa/src/mesa/main/config.h :
+  external/mesa/src/mesa/main/mfeatures.h :
+  external/mesa/src/mesa/../../include/GL/internal/glcore.h :
+  external/mesa/src/mesa/main/context.h :
+  external/mesa/src/mesa/glapi/glapi.h :
+  external/mesa/src/mesa/glapi/glthread.h bionic/libc/include/pthread.h :
+  bionic/libc/include/time.h bionic/libc/include/sys/time.h :
+  bionic/libc/kernel/common/linux/time.h :
+  bionic/libc/kernel/arch-x86/asm/siginfo.h :
+  bionic/libc/kernel/common/asm-generic/siginfo.h :
+  bionic/libc/include/signal.h bionic/libc/kernel/arch-x86/asm/signal.h :
+  bionic/libc/kernel/common/asm-generic/signal.h :
+  bionic/libc/include/sched.h external/mesa/src/mesa/main/imports.h :
+  external/mesa/src/mesa/main/mtypes.h :
+  external/mesa/src/mesa/math/m_matrix.h :
+  external/mesa/src/mesa/main/bitset.h external/mesa/src/mesa/main/dd.h :
+  external/mesa/src/mesa/shader/program.h :
+  external/mesa/src/mesa/main/mtypes.h :
+  external/mesa/src/mesa/shader/programopt.h :
+  external/mesa/src/mesa/shader/prog_print.h :
+  external/mesa/src/mesa/shader/prog_parameter.h :
+  external/mesa/src/mesa/shader/prog_statevars.h :
+  external/mesa/src/mesa/shader/grammar/grammar_mesa.h :
+  external/mesa/src/mesa/shader/grammar/grammar.h :
+  external/mesa/src/mesa/shader/slang/slang_codegen.h :
+  external/mesa/src/mesa/shader/slang/slang_compile.h :
+  external/mesa/src/mesa/shader/slang/slang_typeinfo.h :
+  external/mesa/src/mesa/shader/slang/slang_log.h :
+  external/mesa/src/mesa/shader/slang/slang_utility.h :
+  external/mesa/src/mesa/shader/slang/slang_vartable.h :
+  external/mesa/src/mesa/shader/slang/slang_compile_variable.h :
+  external/mesa/src/mesa/shader/slang/slang_compile_struct.h :
+  external/mesa/src/mesa/shader/slang/slang_compile_operation.h :
+  external/mesa/src/mesa/shader/slang/slang_compile_function.h :
+  external/mesa/src/mesa/shader/slang/slang_preprocess.h :
+  external/mesa/src/mesa/shader/slang/slang_storage.h :
+  external/mesa/src/mesa/shader/slang/slang_emit.h :
+  external/mesa/src/mesa/shader/slang/slang_ir.h :
+  external/mesa/src/mesa/shader/slang/slang_label.h :
+  external/mesa/src/mesa/shader/prog_instruction.h :
+  external/mesa/src/mesa/shader/slang/slang_mem.h :
+  external/mesa/src/mesa/shader/slang/slang_simplify.h :
+  external/mesa/src/mesa/shader/slang/slang_print.h :
+  external/mesa/src/mesa/shader/slang/library/slang_shader_syn.h :
+  external/mesa/src/mesa/shader/slang/library/slang_core_gc.h :
+  external/mesa/src/mesa/shader/slang/library/slang_120_core_gc.h :
+  external/mesa/src/mesa/shader/slang/library/slang_builtin_120_fragment_gc.h :
+  external/mesa/src/mesa/shader/slang/library/slang_common_builtin_gc.h :
+  external/mesa/src/mesa/shader/slang/library/slang_fragment_builtin_gc.h :
+  external/mesa/src/mesa/shader/slang/library/slang_vertex_builtin_gc.h :

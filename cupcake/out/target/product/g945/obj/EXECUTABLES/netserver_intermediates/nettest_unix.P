@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/netserver_intermediates/nettest_unix.o:  \
+ external/netperf/nettest_unix.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/netperf/config.h
+ external/netperf/nettest_unix.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/netperf/config.h :

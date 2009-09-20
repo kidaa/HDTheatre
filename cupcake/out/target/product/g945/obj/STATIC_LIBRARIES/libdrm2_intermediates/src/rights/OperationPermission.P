@@ -1,0 +1,110 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libdrm2_intermediates/src/rights/OperationPermission.o:  \
+ frameworks/base/media/libdrm/mobile2/src/rights/OperationPermission.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  frameworks/base/media/libdrm/mobile2/include/rights/OperationPermission.h \
+  frameworks/base/media/libdrm/mobile2/include/Drm2CommonTypes.h \
+  bionic/libc/include/stdint.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h \
+  bionic/libc/include/sys/_types.h \
+  bionic/libc/arch-x86/include/machine/_types.h \
+  bionic/libc/kernel/common/linux/types.h \
+  bionic/libc/kernel/common/linux/posix_types.h \
+  bionic/libc/kernel/common/linux/stddef.h \
+  bionic/libc/kernel/common/linux/compiler.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types.h \
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h \
+  bionic/libc/kernel/arch-x86/asm/types.h \
+  frameworks/base/media/libdrm/mobile2/include/rights/Constraint.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ustring.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/memblock.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/memlink.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/cmemlink.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ualgobase.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uutility.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uassert.h \
+  bionic/libc/include/stdio.h bionic/libc/include/sys/cdefs.h \
+  bionic/libc/include/sys/cdefs_elf.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h \
+  bionic/libc/include/sys/types.h \
+  bionic/libc/arch-x86/include/machine/kernel.h \
+  bionic/libc/include/sys/sysmacros.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/utypes.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/config.h \
+  frameworks/base/include/utils/Endian.h \
+  bionic/libc/arch-x86/include/endian.h bionic/libc/include/sys/endian.h \
+  bionic/libc/include/limits.h bionic/libc/include/sys/limits.h \
+  bionic/libc/kernel/common/linux/limits.h \
+  bionic/libc/arch-x86/include/machine/internal_types.h \
+  bionic/libc/arch-x86/include/machine/limits.h \
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/float.h \
+  bionic/libc/include/string.h bionic/libc/include/malloc.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ualgo.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/upair.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ufunction.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/upredalgo.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/umemory.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/unew.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uexception.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/bktrace.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ulimits.h \
+  bionic/libc/include/alloca.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uiterator.h \
+  bionic/libc/include/stdlib.h bionic/libc/include/strings.h \
+  bionic/libc/include/memory.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/utf8.h \
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uvector.h
+ frameworks/base/media/libdrm/mobile2/src/rights/OperationPermission.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  frameworks/base/media/libdrm/mobile2/include/rights/OperationPermission.h :
+  frameworks/base/media/libdrm/mobile2/include/Drm2CommonTypes.h :
+  bionic/libc/include/stdint.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stddef.h :
+  bionic/libc/include/sys/_types.h :
+  bionic/libc/arch-x86/include/machine/_types.h :
+  bionic/libc/kernel/common/linux/types.h :
+  bionic/libc/kernel/common/linux/posix_types.h :
+  bionic/libc/kernel/common/linux/stddef.h :
+  bionic/libc/kernel/common/linux/compiler.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types.h :
+  bionic/libc/kernel/arch-x86/asm/posix_types_32.h :
+  bionic/libc/kernel/arch-x86/asm/types.h :
+  frameworks/base/media/libdrm/mobile2/include/rights/Constraint.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ustring.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/memblock.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/memlink.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/cmemlink.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ualgobase.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uutility.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uassert.h :
+  bionic/libc/include/stdio.h bionic/libc/include/sys/cdefs.h :
+  bionic/libc/include/sys/cdefs_elf.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/stdarg.h :
+  bionic/libc/include/sys/types.h :
+  bionic/libc/arch-x86/include/machine/kernel.h :
+  bionic/libc/include/sys/sysmacros.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/utypes.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/config.h :
+  frameworks/base/include/utils/Endian.h :
+  bionic/libc/arch-x86/include/endian.h bionic/libc/include/sys/endian.h :
+  bionic/libc/include/limits.h bionic/libc/include/sys/limits.h :
+  bionic/libc/kernel/common/linux/limits.h :
+  bionic/libc/arch-x86/include/machine/internal_types.h :
+  bionic/libc/arch-x86/include/machine/limits.h :
+  /media/data/source/cupcake/prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1/bin/../lib/gcc/i686-unknown-linux-gnu/4.2.1/include/float.h :
+  bionic/libc/include/string.h bionic/libc/include/malloc.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ualgo.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/upair.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ufunction.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/upredalgo.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/umemory.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/unew.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uexception.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/bktrace.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/ulimits.h :
+  bionic/libc/include/alloca.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uiterator.h :
+  bionic/libc/include/stdlib.h bionic/libc/include/strings.h :
+  bionic/libc/include/memory.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/utf8.h :
+  frameworks/base/media/libdrm/mobile2/src/util/ustl-1.0/uvector.h :

@@ -1,0 +1,16 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at res/drawable-120dpi/logo120dpi.png:0 -->
+  <public type="drawable" name="logo120dpi" id="0x7f020000" />
+  <!-- Declared at res/drawable/logo160dpi.png:0 -->
+  <public type="drawable" name="logo160dpi" id="0x7f020001" />
+  <!-- Declared at res/drawable-240dpi/logo240dpi.png:0 -->
+  <public type="drawable" name="logo240dpi" id="0x7f020002" />
+
+</resources>

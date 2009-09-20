@@ -1,0 +1,94 @@
+ \
+ out/host/linux-x86/obj/EXECUTABLES/gen_matypes_intermediates/x86/gen_matypes.o:  \
+ external/mesa/src/mesa/x86/gen_matypes.c \
+  system/core/include/arch/linux-x86/AndroidConfig.h \
+  external/mesa/src/mesa/main/glheader.h /usr/include/assert.h \
+  /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-32.h /usr/include/ctype.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/endian.h /usr/include/bits/endian.h /usr/include/math.h \
+  /usr/include/bits/huge_val.h /usr/include/bits/mathdef.h \
+  /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h \
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include-fixed/limits.h \
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include-fixed/syslimits.h \
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/stdlib.h \
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include/stddef.h \
+  /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+  /usr/include/bits/select.h /usr/include/bits/sigset.h \
+  /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+  /usr/include/bits/stdlib.h /usr/include/stdio.h /usr/include/libio.h \
+  /usr/include/_G_config.h /usr/include/wchar.h \
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include/stdarg.h \
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+  /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
+  /usr/include/string.h /usr/include/bits/string.h \
+  /usr/include/bits/string2.h /usr/include/bits/string3.h \
+  /usr/include/fpu_control.h \
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include/float.h \
+  /usr/include/inttypes.h /usr/include/stdint.h /usr/include/bits/wchar.h \
+  external/mesa/src/mesa/../../include/GL/gl.h \
+  external/mesa/src/mesa/../../include/GL/glext.h \
+  external/mesa/src/mesa/main/config.h \
+  external/mesa/src/mesa/main/mfeatures.h \
+  external/mesa/src/mesa/main/mtypes.h \
+  external/mesa/src/mesa/main/glheader.h \
+  external/mesa/src/mesa/../../include/GL/internal/glcore.h \
+  external/mesa/src/mesa/glapi/glapi.h \
+  external/mesa/src/mesa/glapi/glthread.h /usr/include/pthread.h \
+  /usr/include/sched.h /usr/include/bits/sched.h /usr/include/signal.h \
+  /usr/include/bits/setjmp.h external/mesa/src/mesa/math/m_matrix.h \
+  external/mesa/src/mesa/main/bitset.h external/mesa/src/mesa/main/dd.h \
+  external/mesa/src/mesa/tnl/t_context.h \
+  external/mesa/src/mesa/math/m_vector.h \
+  external/mesa/src/mesa/math/m_xform.h \
+  external/mesa/src/mesa/main/config.h external/mesa/src/mesa/vbo/vbo.h
+ external/mesa/src/mesa/x86/gen_matypes.c :
+  system/core/include/arch/linux-x86/AndroidConfig.h :
+  external/mesa/src/mesa/main/glheader.h /usr/include/assert.h :
+  /usr/include/features.h /usr/include/sys/cdefs.h :
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+  /usr/include/gnu/stubs-32.h /usr/include/ctype.h :
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h :
+  /usr/include/endian.h /usr/include/bits/endian.h /usr/include/math.h :
+  /usr/include/bits/huge_val.h /usr/include/bits/mathdef.h :
+  /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h :
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include-fixed/limits.h :
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include-fixed/syslimits.h :
+  /usr/include/limits.h /usr/include/bits/posix1_lim.h :
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h :
+  /usr/include/bits/posix2_lim.h /usr/include/stdlib.h :
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include/stddef.h :
+  /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h :
+  /usr/include/bits/select.h /usr/include/bits/sigset.h :
+  /usr/include/bits/time.h /usr/include/sys/sysmacros.h :
+  /usr/include/bits/pthreadtypes.h /usr/include/alloca.h :
+  /usr/include/bits/stdlib.h /usr/include/stdio.h /usr/include/libio.h :
+  /usr/include/_G_config.h /usr/include/wchar.h :
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include/stdarg.h :
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h :
+  /usr/include/bits/stdio.h /usr/include/bits/stdio2.h :
+  /usr/include/string.h /usr/include/bits/string.h :
+  /usr/include/bits/string2.h /usr/include/bits/string3.h :
+  /usr/include/fpu_control.h :
+  /usr/lib/gcc/i486-linux-gnu/4.3.2/include/float.h :
+  /usr/include/inttypes.h /usr/include/stdint.h /usr/include/bits/wchar.h :
+  external/mesa/src/mesa/../../include/GL/gl.h :
+  external/mesa/src/mesa/../../include/GL/glext.h :
+  external/mesa/src/mesa/main/config.h :
+  external/mesa/src/mesa/main/mfeatures.h :
+  external/mesa/src/mesa/main/mtypes.h :
+  external/mesa/src/mesa/main/glheader.h :
+  external/mesa/src/mesa/../../include/GL/internal/glcore.h :
+  external/mesa/src/mesa/glapi/glapi.h :
+  external/mesa/src/mesa/glapi/glthread.h /usr/include/pthread.h :
+  /usr/include/sched.h /usr/include/bits/sched.h /usr/include/signal.h :
+  /usr/include/bits/setjmp.h external/mesa/src/mesa/math/m_matrix.h :
+  external/mesa/src/mesa/main/bitset.h external/mesa/src/mesa/main/dd.h :
+  external/mesa/src/mesa/tnl/t_context.h :
+  external/mesa/src/mesa/math/m_vector.h :
+  external/mesa/src/mesa/math/m_xform.h :
+  external/mesa/src/mesa/main/config.h external/mesa/src/mesa/vbo/vbo.h :

@@ -1,0 +1,7 @@
+out/target/common/obj/APPS/IM_intermediates/src/src/com/android/im/IContactListManager.java: \
+  packages/apps/IM/src/com/android/im/IContactListManager.aidl \
+  packages/apps/IM/src/com/android/im/IContactList.aidl \
+  packages/apps/IM/src/com/android/im/IContactListListener.aidl \
+  packages/apps/IM/src/com/android/im/ISubscriptionListener.aidl \
+  packages/apps/IM/src/com/android/im/engine/Contact.aidl 
+

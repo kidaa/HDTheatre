@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libasound_intermediates/src/pcm/pcm_symbols.o:  \
+ external/alsa-lib/src/pcm/pcm_symbols.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/alsa-lib/src/pcm/pcm_symbols.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

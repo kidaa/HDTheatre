@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMB version = "3">
+<category name = "3rd App" type = "google.all">
+</category>
+<category name = "Album" type = "sony.apk">
+        <package package = "com.android.music"  icon = "" class = "com.android.music.MusicBrowserActivity"></package>
+  		<package package = "com.android.contacts"  icon = "" class = "com.android.contacts.DialtactsActivity"></package>
+	    <package package = "com.android.alarmclock"  icon = "" class = "com.android.alarmclock.AlarmClock"></package>
+</category>
+    
+<category name = "Browser" type = "sony.apk">
+	<package package = "com.android.alarmclock"  icon = "" class = "com.android.alarmclock.AlarmClock"></package>
+	<package package = "com.android.email"  icon = "" class = "com.android.email.activity.Welcome"></package>
+ 	<package package = "com.android.contacts"  icon = "" class = "com.android.contacts.DialtactsActivity"></package>
+</category>
+    
+<category name = "Option" type = "sony.apk">
+    <package package = "com.android.music"  icon = "" class = "com.android.music.MusicBrowserActivity"></package>
+	<package package = "com.android.alarmclock"  icon = "" class = "com.android.alarmclock.AlarmClock"></package>
+	<package package = "com.android.email"  icon = "" class = "com.android.email.activity.Welcome"></package>
+ 	<package package = "com.android.contacts"  icon = "" class = "com.android.contacts.DialtactsActivity"></package>
+</category>
+
+
+</XMB>

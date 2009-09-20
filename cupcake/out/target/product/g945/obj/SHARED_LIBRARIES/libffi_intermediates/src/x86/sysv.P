@@ -1,0 +1,12 @@
+ \
+ out/target/product/g945/obj/SHARED_LIBRARIES/libffi_intermediates/src/x86/sysv.o:  \
+ external/libffi/src/x86/sysv.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/libffi/linux-x86/fficonfig.h external/libffi/linux-x86/ffi.h \
+  external/libffi/linux-x86/../src/x86/ffitarget.h \
+  external/libffi/linux-x86/../include/ffi_real.h
+ external/libffi/src/x86/sysv.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/libffi/linux-x86/fficonfig.h external/libffi/linux-x86/ffi.h :
+  external/libffi/linux-x86/../src/x86/ffitarget.h :
+  external/libffi/linux-x86/../include/ffi_real.h :

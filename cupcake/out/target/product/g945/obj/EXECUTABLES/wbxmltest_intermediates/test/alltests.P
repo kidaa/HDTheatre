@@ -1,0 +1,18 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/wbxmltest_intermediates/test/alltests.o:  \
+ packages/apps/IM/libwbxml/test/alltests.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/embunit/inc/embUnit.h external/embunit/inc/Test.h \
+  external/embunit/inc/TestCase.h external/embunit/inc/TestListener.h \
+  external/embunit/inc/TestResult.h external/embunit/inc/TestSuite.h \
+  external/embunit/inc/TestRunner.h external/embunit/inc/TestCaller.h \
+  external/embunit/inc/RepeatedTest.h external/embunit/inc/stdImpl.h \
+  external/embunit/inc/AssertImpl.h external/embunit/inc/HelperMacro.h
+ packages/apps/IM/libwbxml/test/alltests.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/embunit/inc/embUnit.h external/embunit/inc/Test.h :
+  external/embunit/inc/TestCase.h external/embunit/inc/TestListener.h :
+  external/embunit/inc/TestResult.h external/embunit/inc/TestSuite.h :
+  external/embunit/inc/TestRunner.h external/embunit/inc/TestCaller.h :
+  external/embunit/inc/RepeatedTest.h external/embunit/inc/stdImpl.h :
+  external/embunit/inc/AssertImpl.h external/embunit/inc/HelperMacro.h :

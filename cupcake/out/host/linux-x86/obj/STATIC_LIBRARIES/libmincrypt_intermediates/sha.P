@@ -1,0 +1,15 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libmincrypt_intermediates/sha.o:  \
+ system/core/libmincrypt/sha.c \
+  system/core/include/arch/linux-x86/AndroidConfig.h \
+  system/core/include/mincrypt/sha.h /usr/include/inttypes.h \
+  /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-32.h /usr/include/stdint.h \
+  /usr/include/bits/wchar.h
+ system/core/libmincrypt/sha.c :
+  system/core/include/arch/linux-x86/AndroidConfig.h :
+  system/core/include/mincrypt/sha.h /usr/include/inttypes.h :
+  /usr/include/features.h /usr/include/sys/cdefs.h :
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h :
+  /usr/include/gnu/stubs-32.h /usr/include/stdint.h :
+  /usr/include/bits/wchar.h :

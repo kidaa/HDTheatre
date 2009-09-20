@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/os/ICheckinService.java: \
+  frameworks/base/core/java/android/os/ICheckinService.aidl \
+  frameworks/base/core/java/android/os/IParentalControlCallback.aidl 
+

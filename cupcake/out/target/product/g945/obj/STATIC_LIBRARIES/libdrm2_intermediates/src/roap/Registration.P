@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libdrm2_intermediates/src/roap/Registration.o:  \
+ frameworks/base/media/libdrm/mobile2/src/roap/Registration.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ frameworks/base/media/libdrm/mobile2/src/roap/Registration.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

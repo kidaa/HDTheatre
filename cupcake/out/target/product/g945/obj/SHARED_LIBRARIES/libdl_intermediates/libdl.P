@@ -1,0 +1,5 @@
+out/target/product/g945/obj/SHARED_LIBRARIES/libdl_intermediates/libdl.o:  \
+ bionic/libdl/libdl.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ bionic/libdl/libdl.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

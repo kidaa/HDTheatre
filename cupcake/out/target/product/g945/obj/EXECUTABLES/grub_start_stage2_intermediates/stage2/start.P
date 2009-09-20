@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/EXECUTABLES/grub_start_stage2_intermediates/stage2/start.o:  \
+ external/grub/stage2/start.S external/grub/stage2/shared.h \
+  external/grub/config.h external/grub/stage1/stage1.h \
+  out/target/product/g945/obj/EXECUTABLES/grub_start_stage2_intermediates/stage2_size.h
+ external/grub/stage2/start.S external/grub/stage2/shared.h :
+  external/grub/config.h external/grub/stage1/stage1.h :
+  out/target/product/g945/obj/EXECUTABLES/grub_start_stage2_intermediates/stage2_size.h :

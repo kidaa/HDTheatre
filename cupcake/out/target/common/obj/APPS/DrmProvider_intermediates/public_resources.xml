@@ -1,0 +1,40 @@
+<!-- This file contains <public> resource definitions for all
+     resources that were generated from the source data. -->
+
+<resources>
+
+  <!-- PRIVATE SECTION.  These resources have not been declared public.
+       You can make them public my moving these lines into a file in res/values. -->
+
+  <!-- Declared at packages/providers/DrmProvider/res/values/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-ja/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-nb/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-de/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-nl/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-pl/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-ko/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-fr/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-cs/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-es/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-it/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-ru/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-zh-rCN/strings.xml:18 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-zh-rTW/strings.xml:18 -->
+  <public type="string" name="permlab_accessDrm" id="0x7f020000" />
+  <!-- Declared at packages/providers/DrmProvider/res/values/strings.xml:23 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-ja/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-nb/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-de/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-nl/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-pl/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-ko/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-fr/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-cs/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-es/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-it/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-ru/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-zh-rCN/strings.xml:19 -->
+  <!-- Declared at packages/providers/DrmProvider/res/values-zh-rTW/strings.xml:19 -->
+  <public type="string" name="permdesc_accessDrm" id="0x7f020001" />
+
+</resources>

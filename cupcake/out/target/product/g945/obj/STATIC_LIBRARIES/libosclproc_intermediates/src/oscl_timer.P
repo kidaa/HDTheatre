@@ -1,0 +1,6 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libosclproc_intermediates/src/oscl_timer.o:  \
+ external/opencore//oscl/oscl/osclproc/src/oscl_timer.cpp \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h
+ external/opencore//oscl/oscl/osclproc/src/oscl_timer.cpp :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :

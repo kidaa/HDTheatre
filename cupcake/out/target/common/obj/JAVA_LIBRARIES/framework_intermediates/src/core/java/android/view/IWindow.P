@@ -1,0 +1,7 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java/android/view/IWindow.java: \
+  frameworks/base/core/java/android/view/IWindow.aidl \
+  frameworks/base/graphics/java/android/graphics/Rect.aidl \
+  frameworks/base/core/java/android/view/KeyEvent.aidl \
+  frameworks/base/core/java/android/view/MotionEvent.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl 
+

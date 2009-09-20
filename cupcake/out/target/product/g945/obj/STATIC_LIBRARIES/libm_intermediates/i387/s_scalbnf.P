@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libm_intermediates/i387/s_scalbnf.o:  \
+ bionic/libm/i387/s_scalbnf.S \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  bionic/libc/arch-x86/include/machine/asm.h
+ bionic/libm/i387/s_scalbnf.S :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  bionic/libc/arch-x86/include/machine/asm.h :

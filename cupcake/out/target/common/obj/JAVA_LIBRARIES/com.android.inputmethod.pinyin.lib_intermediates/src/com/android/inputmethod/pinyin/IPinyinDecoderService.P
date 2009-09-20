@@ -1,0 +1,3 @@
+out/target/common/obj/JAVA_LIBRARIES/com.android.inputmethod.pinyin.lib_intermediates/src/com/android/inputmethod/pinyin/IPinyinDecoderService.java: \
+  packages/inputmethods/PinyinIME/lib/com/android/inputmethod/pinyin/IPinyinDecoderService.aidl 
+

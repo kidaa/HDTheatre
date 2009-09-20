@@ -1,0 +1,8 @@
+ \
+ out/target/product/g945/obj/STATIC_LIBRARIES/libmesa_intermediates/x86-64/x86-64.o:  \
+ external/mesa/src/mesa/x86-64/x86-64.c \
+  system/core/include/arch/target_linux-x86/AndroidConfig.h \
+  external/mesa/src/mesa/x86-64/x86-64.h
+ external/mesa/src/mesa/x86-64/x86-64.c :
+  system/core/include/arch/target_linux-x86/AndroidConfig.h :
+  external/mesa/src/mesa/x86-64/x86-64.h :

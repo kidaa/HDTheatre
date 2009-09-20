@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+ <XMB version="1">
+     <layout marginLeft="30" marginTop="50" background="/data/earth_960_540.png" space="1">
+         <category name="Album" index="0" hi_icon="/data/album.png" nr_icon="/data/album_small.png" /> 
+         <category name="Assistant" index="1" hi_icon="/data/assistant.png" nr_icon="/data/assistant_small.png" /> 
+         <category name="3rd App" index="2" hi_icon="/data/tv1.png" nr_icon="/data/tv1_small.png" /> 
+         <category name="Browser" index="3" hi_icon="/data/browser.png" nr_icon="/data/browser_small.png" /> 
+         <category name="Option" index="4" hi_icon="/data/option.png" nr_icon="/data/option_small.png" /> 
+        </layout>
+  </XMB>
+
